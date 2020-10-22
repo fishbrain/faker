@@ -1,0 +1,3603 @@
+en:
+  faker:
+    fishbrain:
+      equipment:
+        brands:
+          - 13 Fishing
+          - '303'
+          - 6th Sense
+          - A Band Of Anglers
+          - ACR
+          - ACR Electronics
+          - AFTCO®
+          - ANDERSEN
+          - Absorbits
+          - Abu Garcia
+          - Accu-Steer
+          - Actisense
+          - Adventure Medical Kits
+          - Aigean Networks
+          - Airmar
+          - Albin Pump Marine
+          - Amphibia
+          - Analytic Systems
+          - Ancor
+          - Apparel by Home Run
+          - Aqua Signal
+          - Aqualuma LED Lighting
+          - Ardent
+          - Arsenal
+          - Atlas
+          - Attwood Marine
+          - B&G
+          - BARIGO
+          - BEP Marine
+          - BFishN
+          - Bad Elf
+          - Bagley
+          - Balmar
+          - Bandit Lures
+          - Bank Robberz
+          - Barbwire
+          - Barton Marine
+          - BassHik
+          - Bassman
+          - Beckson Marine
+          - Bennett Marine
+          - Berkley
+          - Big Bass Dreams
+          - Big Bite Baits
+          - BioBait
+          - BioSpawn
+          - Blue Fox
+          - Blue Guard Innovations
+          - Blue Sea Systems
+          - Blue Water LED
+          - Boat Leveler Co.
+          - BoatBuckle
+          - BoatLIFE
+          - Bombora
+          - Boomerang Tool Co.
+          - Boss Audio
+          - Bowls and Poles Fishing
+          - Bracketron Inc
+          - Bucketmouth Brand
+          - Bulldog
+          - Bullet Weights
+          - Bushnell
+          - C-MAP
+          - C-Wave
+          - C. Sherman Johnson
+          - C.E. Smith
+          - CLC Work Gear
+          - CMOR Mapping
+          - CRC Industries
+          - Caframo
+          - Camco
+          - Cannon
+          - CargoBuckle
+          - Carlson Tackle Company
+          - Carver by Covercraft
+          - Casio
+          - Charles
+          - Church Tackle
+          - Clipper
+          - Cobra Wire & Cable
+          - Cole Hersee
+          - Coleman
+          - ComNav Marine
+          - Comrod
+          - Cooler Shield
+          - Corrosion Block
+          - Crewsaver
+          - DS18
+          - Daiwa
+          - Dallas Manufacturing Co.
+          - Danco Sports
+          - Davis Instruments
+          - Deeper Sonar
+          - Digital Antenna
+          - Digital Yacht
+          - Dirty Jigs
+          - Ditch Pack
+          - Dock Edge
+          - Dometic
+          - Draw-Tite
+          - DryCASE
+          - Dual Pro
+          - Duo Realis
+          - EcoPro Tungsten
+          - Edson Marine
+          - Engage™
+          - Enigma Fishing
+          - Erupt Fishing
+          - Evergreen International
+          - FATSAC
+          - FELL Marine
+          - FLIR Systems
+          - FUSION
+          - Faria Beede Instruments
+          - Favorite Fishing
+          - Felmlee Lures
+          - Fenwick
+          - FinMan Fishing Innovations
+          - Fireboy-Xintex
+          - First Fish
+          - First Watch
+          - Fish Squad
+          - FishHuge Apparel
+          - Fishbrain
+          - Fishing Hot Spots
+          - Fitec Cast Nets
+          - Flitz
+          - FloJet
+          - Florida Fishing Products
+          - Flying Fisherman
+          - Forespar Performance Products
+          - Fortress Marine Anchors
+          - Frabill
+          - Full Throttle
+          - Fulton
+          - Furrion
+          - Furuno
+          - G. Loomis
+          - GROCO
+          - GT Ice Cream
+          - Gamakatsu
+          - Garmin
+          - Globalstar
+          - Glomex Marine Antennas
+          - GoFish Cam
+          - Golight
+          - Googan Baits
+          - Green Marine Monitors
+          - Groove Life
+          - Guest
+          - HEADBANGER®
+          - HEISE LED Lighting Systems
+          - HO Sports
+          - HUCK Performance
+          - HUK
+          - Hardy
+          - Harken
+          - Hatteland Technology
+          - HawkEye
+          - Hayabusa Fishing
+          - Heddon
+          - Hella Marine
+          - Hodgman
+          - Hook & Tackle
+          - HoseCoil
+          - Humminbird
+          - Hydro Glow
+          - Hydrowave
+          - Hyperlastics™
+          - Hyperlite
+          - I2Systems Inc
+          - Ice Eater by Power House
+          - Icom
+          - Imperial
+          - Impulse Fishing Rods
+          - Infinity
+          - Inmarsat
+          - Innovative Lighting
+          - Intellian
+          - Intellisteer
+          - Iridium
+          - JB Lures
+          - JBL
+          - JENSEN
+          - JJ's Magic
+          - JT Custom
+          - Jabsco
+          - Jack's Juice
+          - Jenko
+          - Joe Bucher
+          - Johnson
+          - Johnson Pump
+          - KING
+          - KVH
+          - Kabeles
+          - Kalex
+          - Keitech
+          - Kenders Outdoors
+          - Kent Sporting Goods
+          - King Kracken
+          - KiwiGrip
+          - Klein Tools
+          - Korkers
+          - Kuuma Products
+          - LIVETARGET®
+          - LYN
+          - Lake Fork
+          - Lee's Tackle
+          - Lenco Marine
+          - LevelGuard
+          - Lew's
+          - Lindy
+          - Line Cutterz
+          - Lopolight
+          - Lowrance
+          - Lumitec
+          - Lunasea Lighting
+          - Lunkerhunt
+          - Lure Lock
+          - MANG Gear
+          - MARYKATE
+          - MEGA Strike
+          - MONSTERBASS
+          - Mack's Lures
+          - MagBay Lures
+          - Magma
+          - Majestic Global USA
+          - Marcum Technologies
+          - Maretron
+          - Marinco
+          - Marine Audio
+          - Master Fender Covers
+          - Mastervolt
+          - Mate Series
+          - Maxwell
+          - McMurdo
+          - Megaware
+          - Meguiar's
+          - Mepps
+          - Milennia
+          - Minn Kota
+          - Missile Baits
+          - Mission Tackle
+          - Mitchell
+          - Monarch Marine
+          - Moonshine Lures
+          - Mothers Polish
+          - MotorGuide
+          - Musky Innovations
+          - Musky Mania
+          - Mustad
+          - Mustang Survival
+          - NOCO
+          - Nautic Alert
+          - Nauticus
+          - NavPod
+          - Navico
+          - Navionics
+          - Navisafe
+          - New England Ropes
+          - New Pro Products
+          - Nike
+          - Nobeltec
+          - Norcold
+          - Northland Fishing Tackle
+          - ON'EM Fishing
+          - OPKIX
+          - Ocean Born™
+          - Ocean Signal
+          - OceanLED
+          - Octopus Autopilot Drives
+          - Onyx Outdoor
+          - Orion
+          - Other
+          - Outkast Tackle
+          - Owner
+          - PENN
+          - PSS Shaft Seal
+          - Paneltronics
+          - Panther Products
+          - Perko
+          - Permatex
+          - Pflueger
+          - Phantom Lures
+          - Pioneer
+          - Plano
+          - Polk Audio
+          - Poly-Planar
+          - Polyform U.S.
+          - Power Pux
+          - PowerPro
+          - Powermania
+          - Powerwinch
+          - Presta
+          - Princeton Tec
+          - Pro Fish Gear
+          - Pro Series
+          - ProMariner
+          - Prospeed
+          - Puddle Jumper
+          - QMaxx
+          - Quick
+          - Quick Change
+          - R & D Marine
+          - RAM Mounting Systems
+          - RHEOS
+          - RIGID Industries
+          - ROLA
+          - Railblaza
+          - Rapala
+          - Raritan
+          - Rat-L-Trap
+          - Raymarine
+          - Reaction Innovations
+          - Reef Runner
+          - Ritchie
+          - River's Edge Products
+          - River2Sea
+          - Robline
+          - Roboworm
+          - Rod Saver
+          - Ronstan
+          - Rule
+          - Rupp Marine
+          - SEM
+          - SI-TEX
+          - SPOT
+          - SPRO
+          - STA-BIL
+          - Safe-T-Alert
+          - SailTimer
+          - Samlex America
+          - Scanstrut
+          - Schaefer Marine
+          - Schmitt & Ongaro Marine
+          - Scotty
+          - Sea Catch
+          - Sea-Dog
+          - SeaDek
+          - SeaWorthy
+          - Seaguar
+          - Seaguard International
+          - Seaview
+          - Sebile
+          - Sennett Tackle
+          - Sevylor
+          - Shadow-Caster LED Lighting
+          - Shakespeare
+          - Shimano
+          - Shurflo by Pentair
+          - Shurhold
+          - Sika
+          - Simmons
+          - Simms
+          - Simrad
+          - Siren Marine
+          - Skinny Water Culture
+          - SmartPlug
+          - Smelly Jelly
+          - Smithwick
+          - Southco
+          - Speco Tech
+          - SpiderWire®
+          - SpoolTek™
+          - Spray Nine
+          - Sprayway
+          - Spydro
+          - St. Croix
+          - Standard Horizon
+          - Stanford Baits
+          - Stealth Rod Holders
+          - Stearns
+          - SteelShad
+          - Storm
+          - Stren
+          - Strike King
+          - StrikeMaster
+          - Striker
+          - Sudbury
+          - Sufix
+          - Sunline
+          - Super Lube
+          - SurfStow
+          - Swobbit
+          - System G
+          - T-H Marine Supplies
+          - TACO Marine
+          - TROLLMaster
+          - TUF-LINE
+          - Tackle HD
+          - Tailored Tackle
+          - Tasco
+          - Taylor Made
+          - Team Catfish
+          - Tecnoseal
+          - Tekonsha
+          - Terminator
+          - The O' Wacky Tool
+          - Thermos
+          - Thetford Marine
+          - Thill
+          - Tigress
+          - Timex
+          - Tip Top Teak
+          - Toadfish Outfitters
+          - Tournament Strong
+          - True Guard
+          - Tundra Tackle
+          - Turning Point Propellers
+          - Uflex USA
+          - Ugly Stik
+          - Uniden
+          - VDO
+          - VDO Marine
+          - VETUS
+          - VIKING
+          - VMC
+          - Velair
+          - Vense
+          - Vesper
+          - Vexilar
+          - Victron Energy
+          - Viega
+          - WOW Watersports
+          - Wahoo Industries
+          - War Eagle
+          - Warriors Tackle Supply
+          - Water Gremlin
+          - Wave WiFi
+          - WeatherHawk
+          - Webasto
+          - Weld Mount
+          - Wesbar
+          - Whale Marine
+          - Whitecap
+          - Wild River
+          - Wildgame Innovations
+          - Winegard
+          - Woo! Tungsten
+          - Xantrex
+          - Xventure
+          - Xzone
+          - YOLOtek
+          - YUKON
+          - YakGear
+          - Yamamoto
+          - Yum
+          - Z-Man
+          - Zoom
+          - Zorro Baits
+          - iN-Command Control Systems
+          - mazu
+          - ugo wear
+        categories:
+          - AC, Fans & Heaters
+          - Accessories
+          - Adhesive & Sealants
+          - All Purpose Hooks
+          - Alternators
+          - Anchoring & Accessories
+          - Anchoring & Docking
+          - Anchors
+          - Angling Baits
+          - Angling Poles
+          - Anodes
+          - Antenna Mounts & Accessories
+          - Apparel
+          - Artificial
+          - Artwork
+          - Assorted Fly Collections
+          - Attractants
+          - Attractors
+          - Automotive & RV
+          - Baby & Toddler
+          - Backing
+          - Bags
+          - Bait-making Ingredients
+          - Baitcast Combos
+          - Baitcast Reels
+          - Baitfish
+          - Baits & Lures
+          - Bass Hooks
+          - Batteries
+          - Battery Chargers & Management
+          - Bearings & Hubs
+          - Big Fish Specials
+          - Big Game Hooks
+          - Bimini Top Fittings
+          - Binoculars
+          - Blade Baits
+          - Blankets & Towels
+          - Blobs
+          - Blocks
+          - Bluewater LED
+          - Boat Accessories
+          - Boat Maintenance & Customization
+          - Boat Mounts & Mounting Systems
+          - Boat Outfitting Accessories
+          - Boat Rods
+          - Bobbers/Floats
+          - Boilies, Pop-ups, Wafters and Paste
+          - Boobies
+          - Books
+          - Boots
+          - Bottle Openers & Key Rings
+          - Bow Thrusters
+          - Braided & Uni-filament Lines
+          - Brake Controllers
+          - Bugs, Grubs & Fry
+          - Bulbs
+          - Bundles
+          - Buoys, Guards & Fenders
+          - Busbars, Connectors & Insulators
+          - Cables, Modules & Sensors
+          - Caddis
+          - Camping
+          - Camping & Outdoor
+          - Camping & Outdoor Accessories
+          - Can Koozies
+          - Carp Hooks
+          - Carp/Panfish
+          - Cartography
+          - Casting Rods
+          - Chain, Line & Rope
+          - Chironomid
+          - Chum / Groundbait
+          - Chunks & Trailers
+          - Circle Hooks
+          - Circuit Breakers
+          - Cleaning
+          - Combos
+          - Communication
+          - Communication Accessories
+          - Compasses
+          - Components
+          - Coneheads
+          - Conventional Combos
+          - Conventional Reels
+          - Converters & Inverters
+          - Cooking & Eating
+          - Coolers
+          - Covers
+          - Crabs
+          - Crankbaits
+          - Crayfish
+          - Creatures & Craws
+          - Crustaceans, Crabs & Lobsters
+          - Cubes, Light Bars & Pods
+          - Cups, Canteens, Mugs & Tumblers
+          - DVDs
+          - Decals & Stickers
+          - Deck & Galley
+          - Deck Fills & Plates
+          - Decor
+          - Diawl Bach
+          - Display Mounts
+          - Disturbance Lures
+          - Ditch Pack Safety & Survival Packs
+          - Docking
+          - Dome & Down Lights
+          - Dough / Powerbait
+          - Downrigger Rods
+          - Dragon/Damsel
+          - Dries
+          - Dropshot Hooks
+          - Dry
+          - Dry Bags
+          - Dry Pouches
+          - EPIRBs
+          - Eels, Worms & Leeches
+          - Egg/Worm/Scud
+          - Electrical
+          - Electrical Accessories
+          - Electrical Panels
+          - Electronic Lures
+          - Electronics & Camera Accessories
+          - Emerger
+          - Engine Controls
+          - Eyewear
+          - F Fly
+          - Face Masks, Buffs & Shields
+          - Fish Finders & GPS
+          - Fish Finders & Marine Navigation
+          - Fish Finders Only
+          - Fishing Shelters
+          - Fitness
+          - Fittings
+          - Flashlights & Lanterns
+          - Flies
+          - Flip flops & Sandals
+          - Flood & Spreader Lights
+          - Flotation Coats & Pants
+          - Fluorocarbon Lines
+          - Fly Fishing Combos
+          - Fly Fishing Hooks
+          - Fly Lines
+          - Fly Reels & Spools
+          - Fly Rods
+          - Fly Storage Boxes
+          - Fly Tying
+          - Fly Tying Materials
+          - Fly Tying Tools & Accessories
+          - Footwear
+          - Footwear Accessories
+          - Frogs & Soft Topwater Lures
+          - Fuel Management
+          - Fume Detectors
+          - Fuse Blocks & Fuses
+          - GDS
+          - GPS & Accessories
+          - GPS & Fishfinder Combos
+          - Gas Springs
+          - Gauges & Accessories
+          - General Purpose
+          - General Purpose (Beadhead)
+          - General Purpose (Tungsten beadhead)
+          - Gift Cards
+          - Gift Packs
+          - Gloves
+          - Glue
+          - Grab Handles
+          - Guide-Ons
+          - Hailers & Horns
+          - Hair Jigs, Feather Jigs, Covered Jigs
+          - Hairwig/Featherwing
+          - Hard Swimbaits
+          - Hardware
+          - Hardware Accessories
+          - Hatch Lifts
+          - Hatches, Plates & Lids
+          - Headwear
+          - Hinges
+          - Hitches & Accessories
+          - Hoodies, Sweatshirts & Fleeces
+          - Hooks
+          - Horns
+          - Hull Protection
+          - Humminbird
+          - Hybrid Swimbaits
+          - Hydrowave
+          - Ice Fishing Combos
+          - Ice Fishing Reels
+          - Ice Fishing Rods
+          - Immersion, Dry & Work Suits
+          - Inflatable Boats & Float Tubes
+          - Inflatables & Pumps
+          - Interior & Courtesy Lights
+          - Jack Plates & Accessories
+          - Jacks & Dollies
+          - Jerkbaits
+          - Jig Hooks
+          - Jigging Assists
+          - Jigging Rods
+          - Jigheads & Swimbait Heads
+          - Jigs
+          - Kits
+          - Klinkhammer
+          - Latches
+          - Leadcore Lines
+          - Leaders & Tippets
+          - Leggings
+          - Life Rafts
+          - Life Vests & Jackets
+          - Lighting
+          - Lighting Accessories
+          - Lights & Wiring
+          - Lines
+          - Lipless Crankbaits
+          - Livewell
+          - Lizards
+          - Low Profile Baitcast Reels
+          - Lure Boxes
+          - Lure/Rig Storage
+          - Maintenance
+          - Maintenance & Spare Parts
+          - Marine Hardware
+          - Marine Lumber & Teak
+          - Marine Safety Accessories
+          - Mayfly
+          - Media
+          - Medical Kits
+          - Merchandise & Gifts
+          - Meters & Monitoring
+          - Midge
+          - Monofilament Lines
+          - Motors & Accessories
+          - Mounts & Bases
+          - Muddlers
+          - Naturals
+          - Navigation Lights
+          - Nobblers
+          - Non-Skid Paint
+          - Non-fishing Accessories
+          - Nymphs
+          - Oil, Grease & Cleaning Products
+          - Other
+          - Outerwear
+          - P&V T-H Marine
+          - Pants & Bibs
+          - Parachute
+          - Pellets
+          - Performance & Customization
+          - Personal Flotation Devices
+          - Phone Cases
+          - Photography & Filming
+          - Pike Flies
+          - Pirks
+          - Plumbing & Ventilation
+          - Poppers
+          - Predators
+          - Propeller
+          - Protection
+          - Pumps
+          - RAM Mount Store
+          - Radar & TV Mounts
+          - Rail
+          - Realistic
+          - Reel Management
+          - Reel Parts
+          - Reels
+          - Rigging
+          - Rigs & Snells
+          - Rod Holder Accessories
+          - Rod Holders
+          - Rod Holders & Other Fishing Products
+          - Rod Management
+          - Rod Parts
+          - Rod Racks & Holders
+          - Rod Sleeves, Socks & Wraps
+          - Rod Tubes & Bags
+          - Rods
+          - Rollers & Brackets
+          - Rope
+          - Round Baitcast Reels
+          - Rucksacks
+          - Safety & Survival
+          - Safety Lights
+          - Sailing
+          - Sailing Accessories
+          - Sailing Apparel
+          - Salmon
+          - Salmon & Steelhead
+          - Saltwater
+          - Sanitation
+          - Search Lights
+          - Security Systems
+          - Shackles, Rings & Pins
+          - Shaft Couplers & Seals
+          - Shirts & Tanks
+          - Shoes & Sneakers
+          - Shore Power
+          - Shorts
+          - Shrimps
+          - Silicone Rings
+          - Single Side Band
+          - Sinkers/Weights
+          - Sleeves
+          - Small Saltwater Flies
+          - Smart Watches
+          - Snaps & Clips
+          - Socks
+          - Soft Swimbaits
+          - Solar Panels
+          - Spincast Combos
+          - Spincast Reels
+          - Spinnerbaits & Buzzbaits
+          - Spinners
+          - Spinning Combos
+          - Spinning Reels
+          - Spinning Rods
+          - Spoons
+          - Spy & Search Lures
+          - Squids
+          - Squirminators
+          - Steelhead
+          - Steering Systems
+          - Steering Wheels
+          - Stone Fly
+          - Stonefly
+          - Storage
+          - Streamer
+          - Streamers
+          - Striper/Blue Fish
+          - Surf Rods
+          - Switches & Accessories
+          - Swivels
+          - Tablet Mounts
+          - Tackle Bags, Boxes & Storage
+          - Tackle Boxes
+          - Tackle Management
+          - Tactical
+          - Tea Towels
+          - Terminal Tackle
+          - Terminals
+          - Terrestrial
+          - Thermals & Underwear
+          - Tie-Downs
+          - Tools & Accessories
+          - Topwater Baits
+          - Towables & Ropes
+          - Traction Pads
+          - Trailering
+          - Transducer Accessories
+          - Transducers
+          - Treble/Double Hooks
+          - Trim Tabs & Accessories
+          - Trolling Baits
+          - Trolling Motor Accessories
+          - Trolling Motors
+          - Trolling Motors & Accessories
+          - Trolling Rods
+          - Trophies & Statuettes
+          - Tropic
+          - Tube Flies
+          - Tubes
+          - Tungsten Jig
+          - Twitchbaits
+          - Umbrella Rigs
+          - Underwater Lighting
+          - VHF Fixed Mount
+          - VHF Handheld
+          - Various Lighting
+          - Vents
+          - Waders, Wade Boots & Socks
+          - Warmwater
+          - Watch Bands
+          - Watches
+          - Watches & Accessories
+          - Watersports
+          - Watersports Accessories
+          - Weather Instruments
+          - Weedless Fishing Hooks
+          - Weighted Hooks
+          - Wet
+          - Wets
+          - Wetsuits & Accessories
+          - Winches
+          - Winches, Straps & Cables
+          - Windlasses & Accessories
+          - Windshield Wipers
+          - Winged
+          - Winterizing
+          - Wire
+          - Wire Management
+          - Wooly Buggers
+          - Youth
+          - Zonkers/Sculpins
+        option_types:
+          - AFTM Rating
+          - Action
+          - Buckets Color
+          - Buoyancy
+          - Capacity
+          - Casting Weight
+          - Color
+          - Color/Material
+          - Density
+          - Description
+          - Design
+          - Diameter
+          - Gear Ratio
+          - Handle Position
+          - Head Length
+          - Head Weight
+          - LED Style
+          - Length
+          - Line Break Strength
+          - Line Rating
+          - Lure Box
+          - Model
+          - Orientation
+          - Pieces
+          - Power
+          - Quantity in Pack
+          - Scent
+          - Seat
+          - Size
+          - Sonar
+          - Style
+          - Swim Depth
+          - Value
+          - Weight
+        aftm_rating:
+          - \"#10\"
+          - \"#11\"
+          - \"#12\"
+          - \"#2\"
+          - \"#3\"
+          - \"#4\"
+          - \"#5\"
+          - \"#5/#6\"
+          - \"#6\"
+          - \"#6/#7\"
+          - \"#7\"
+          - \"#7/#8\"
+          - \"#8\"
+          - \"#8/#9\"
+          - \"#9\"
+          - \"#9/#10\"
+          - 6-8
+          - 8-11
+          - N/A
+        action:
+          - Extra Fast
+          - Extra Fast & Fast
+          - Fast
+          - Fast - Glass
+          - Flipping
+          - Glass
+          - Kite
+          - Medium
+          - Medium Fast
+          - Moderate
+          - Moderate Fast
+          - Moderate Fast & Fast
+          - N/A
+          - Parabolic
+          - Regular Bend
+          - Regular Bend - Glass
+          - Slow
+          - Swimbait Special
+          - Ultra Fast
+        buckets_color:
+          - American
+          - Beach
+          - Black & Blue
+          - Black Ops
+          - Camo
+          - Grander
+          - Hunter
+          - Ice
+          - MSP Camo
+          - N/A
+          - Optimus Blue
+          - Optimus Red
+          - Original Blue
+          - Original Red
+          - Patriot
+          - Tiki
+          - Tuxedo
+          - Varied
+        buoyancy:
+          - Extra Heavy
+          - Fast Sinking
+          - Floating
+          - N/A
+          - Neutral
+          - Rocket
+          - Sinking
+          - Slow Sinking
+          - Super Long Distance
+          - Suspending
+        capacity:
+          - DT10+255
+          - DT11+160
+          - DT2+25
+          - DT2+70
+          - DT4+100
+          - DT4+55
+          - DT4+65  WF5+71  WF6+52
+          - DT6+70
+          - DT6+70  WF7+90  WF8+85
+          - DT6+85
+          - DT7+140
+          - DT9+150
+          - N/A
+          - WF10+120
+          - WF10+150
+          - WF10+170 (30lb Dacron)
+          - WF10+180
+          - WF10+187 (30lb Dacron)
+          - WF10+240
+          - WF10+247
+          - WF11+230
+          - WF11+270
+          - WF11+280 (30lb Dacron)
+          - WF11+290 (30lb Dacron)
+          - WF11F+225YD
+          - WF12+150 (30lb Dacron)
+          - WF12+250 (30lb Dacron)
+          - WF12+265
+          - WF12+340 (30lb Dacron)
+          - WF12+400 (30lb Dacron)
+          - WF14+550 (40lb Dacron)
+          - WF2+33 (20lb Dacron)
+          - WF2+60 WF3+45 | WF4+80 WF5+60
+          - WF3+22 (20lb Dacron)
+          - WF3+38
+          - WF3+40 (20lb Dacron)
+          - WF3+55
+          - WF3+55 (20lb Dacron)
+          - WF3+60
+          - WF3+75
+          - WF3F+50YD
+          - WF4+30 (20lb Dacron)
+          - WF4+45
+          - WF4+45 (20lb Dacron)
+          - WF4+60
+          - WF4+75
+          - WF4F+45YD
+          - WF5+125
+          - WF5+40
+          - WF5+40 (20lb Dacron)
+          - WF5+50 (20lb Dacron)
+          - WF5+65
+          - WF5+65 WF6+50 | WF7+105 WF8+100
+          - WF5+70
+          - WF5+75 (20lb Dacron)
+          - WF5+75 (30lb Dacron)
+          - WF5F+75YD
+          - WF6+25
+          - WF6+45 (30lb Dacron)
+          - WF6+50 (20lb Dacron)
+          - WF6+53
+          - WF6+60
+          - WF6+80 (20lb Dacron)
+          - WF6F+80YD
+          - WF7+100
+          - WF7+250
+          - WF7+65 (20lb Dacron)
+          - WF7+67 (30lb Dacron)
+          - WF7+85 (30lb Dacron)
+          - WF7+90
+          - WF7F +100YD
+          - WF8+100 (30lb Dacron)
+          - WF8+115 (20lb Dacron)
+          - WF8+160
+          - WF8+200 (20lb Dacron)
+          - WF8+25
+          - WF8+75
+          - WF8F+115YD
+          - WF9+150
+          - WF9+155
+          - WF9+190 (30lb Dacron)
+          - WF9+235 WF10+220 | WF11+285 WF12+275
+          - WF9F+200YD
+        casting_weight:
+          - 1-3oz
+          - 1-4 oz
+          - 1-5 oz
+          - 1/16-1/2oz
+          - 1/16-1/8oz
+          - 1/16-3/16oz
+          - 1/16-3/8oz
+          - 1/16-5/8oz
+          - 1/2 - 1 1/2 oz
+          - 1/2 - 1 5/8 oz
+          - 1/2 - 2 1/2 oz
+          - 1/2 - 5 oz
+          - 1/2-1 1/2oz
+          - 1/2-1 1/4oz
+          - 1/2-1 3/8 oz
+          - 1/2-1 oz
+          - 1/2-2oz
+          - 1/2-3oz
+          - 1/20-5/16oz
+          - 1/32 - 3/16
+          - 1/32-1/4oz
+          - 1/32-1/8oz
+          - 1/4-1 1/2oz
+          - 1/4-1 1/4oz
+          - 1/4-1 3/8oz
+          - 1/4-1oz
+          - 1/4-3/4oz
+          - 1/4-3/8oz
+          - 1/4-5/16oz
+          - 1/4-5/8oz
+          - 1/4-7/8 oz
+          - 1/7-7/8oz
+          - 1/8-1/2oz
+          - 1/8-1oz
+          - 1/8-3/4oz
+          - 1/8-3/8oz
+          - 1/8-5/16oz
+          - 1/8-5/8oz
+          - 1/8-7/16oz
+          - 2-5 oz
+          - 2-6 oz
+          - 3/16-1 1/2oz
+          - 3/16-1 oz
+          - 3/16-1/2oz
+          - 3/16-3/8oz
+          - 3/16-5/8oz
+          - 3/32-7/16oz
+          - 3/4-2 1/2 oz
+          - 3/4-2oz
+          - 3/4-3 oz
+          - 3/8 - 7/8 oz
+          - 3/8-1 1/2oz
+          - 3/8-1 1/4oz
+          - 3/8-1oz
+          - 3/8-2oz
+          - 3/8-3/4oz
+          - 4-10 oz
+          - 4-8 oz
+          - 5/16 - 1 1/2
+          - 5/16-1 1/4oz
+          - 5/8 - 2 1/2 oz
+          - 5/8 - 2 oz
+          - 6-16 oz
+          - 7/16-1 1/2oz
+          - 8-18 oz
+          - N/A
+        color:
+          - 2 Tone Heather/ Black With Black Embroidery
+          - 2 Tone Navy + Red Bill/White Embroidery
+          - 7 Mile Camo
+          - Admiral Blue
+          - Admiral Blue Plaid
+          - Air Force Blue
+          - America
+          - American Flag
+          - Anvil
+          - Aqua
+          - Aqua Blue
+          - Aqua Camo
+          - Aqua Tie Dye
+          - Arctic Blue
+          - Army
+          - Army Green
+          - Army Heather
+          - Ash
+          - Ash Gray
+          - Ash Gray Camo
+          - Athletic Heather
+          - Azul
+          - Azure
+          - Azure Heather
+          - BLK
+          - BLKCAMO
+          - Bahama
+          - Bahama Heather
+          - Bark
+          - Bass
+          - Bass Skin
+          - Beach Peach
+          - Beige
+          - Big Sexy
+          - Billfish
+          - Birch/Gray
+          - Black
+          - Black & Blue
+          - Black & Gray
+          - Black & Green
+          - Black & Red
+          - Black & White
+          - Black & Yellow
+          - Black Camo
+          - Black Camouflage
+          - Black Conceal Camo
+          - Black Floral
+          - Black Forrest
+          - Black Neon Yellow
+          - Black Ops
+          - Black Stripe
+          - Black Tee
+          - Black Tee/ Blue Graphic
+          - Black Tee/Red Graphic
+          - Black Tee/White Graphic
+          - Black Tie Dye
+          - Black White
+          - Black w/ White Embroidery
+          - Black with Blue/White Embroidery
+          - Black/Black
+          - Black/Dark Shadow
+          - Black/Glow Graphic
+          - Black/Gold Embroidery
+          - Black/Gray
+          - Black/Green
+          - Black/Grey
+          - Black/Hodgman Green
+          - Black/Mineral Freeze
+          - Black/Monster Green Embroidery
+          - Black/Moonrock
+          - Black/Neon Lime
+          - Black/Orange
+          - Black/Red Graphic
+          - Black/White
+          - Black/Yellow
+          - Blackberry
+          - Blaze Orange
+          - Blue
+          - Blue & White
+          - Blue Camo
+          - Blue Camo Heather
+          - Blue Cloud
+          - Blue Grass
+          - Blue Grey
+          - Blue Haze
+          - Blue Heather
+          - Blue Horizon
+          - Blue Kraken
+          - Blue Marlin Salmon
+          - Blue Steel
+          - Blue Tie Dye
+          - Blue Topaz
+          - Blue reef
+          - Blue/Grey
+          - Blue/White
+          - Bluebird
+          - Bluemarine
+          - Bluesteel
+          - Bluesteel Heather
+          - Bone
+          - Bone/Currant
+          - Boulder
+          - Brick
+          - Brick Heather
+          - Bright Seafoam
+          - Bronze
+          - Bronze/Black
+          - Bronze/Charcoal
+          - Bronze/Olive
+          - Brown
+          - Brown & Tan
+          - Brown Trout
+          - Brown/Blaze Yellow
+          - Brown/Camo
+          - Brown/Floral
+          - Brown/Khaki
+          - Bull Flyer Blue
+          - Bull Flyer Teal
+          - Burgundy
+          - Burgundy Heather
+          - Burnt Orange
+          - Burnt Orange w/ White Embroidery
+          - Butter
+          - Butter/Khaki
+          - Butterfly Wing
+          - Cactus
+          - Camelia/Pool
+          - Camo
+          - Camo Fusion
+          - Camo Mossy Oak
+          - Camo/Pumpkin Green
+          - Camo/Red Embroidery
+          - Camouflage
+          - Carbon
+          - Carbon Fiber
+          - Carbon Heather
+          - Caribbean Plaid
+          - Carolina Blue
+          - Carp
+          - Cement
+          - Char & White
+          - Charcoal
+          - Charcoal / Navy
+          - Charcoal / Neon Orange
+          - Charcoal / Neon Yellow
+          - Charcoal / White
+          - Charcoal Flatbill
+          - Charcoal Gray
+          - Charcoal Heather
+          - Charcoal Heather/ Brown
+          - Charcoal Heather/Black
+          - Charcoal Heather/Black Graphic
+          - Charcoal Silver
+          - Charcoal/Azul
+          - Charcoal/Black
+          - Charcoal/Cardinal
+          - Charcoal/Sky Blue
+          - Charcoal/Tequila
+          - Chartreuse
+          - Chili
+          - Chili Heather
+          - Chocolate
+          - Cinder
+          - Cinder Camo
+          - Citrus
+          - Cloud Camo Blue
+          - Cloud Camo Grey
+          - Colombia Blue
+          - Columbia Blue
+          - Concrete
+          - Cool Blue
+          - Copper
+          - Coral
+          - Coral/Gunmetal
+          - Cork
+          - Cotton
+          - Crappie
+          - Cream
+          - Crimson
+          - Cumin
+          - Currant
+          - Current
+          - Cyan Heather
+          - DCVR Blue-White
+          - DCVR Grey-White
+          - Dahlia
+          - Dark Blue
+          - Dark Blue Heather
+          - Dark Brown
+          - Dark Charcoal/Black Embroidery
+          - Dark Gray
+          - Dark Green
+          - Dark Grey
+          - Dark Grey Heather
+          - Dark Gunmetal
+          - Dark Heather
+          - Dark Heather Grey
+          - Dark Khaki
+          - Dark Moon
+          - Dark Olive
+          - Dark Plum
+          - Dark Stone
+          - Dark Turquoise
+          - Deep Blue
+          - Deep Heather
+          - Deep Navy
+          - Deep Sea
+          - Default
+          - Defender
+          - Denim
+          - Desert Conceal Camo
+          - Desert Sage
+          - Diamond Blue
+          - Digi Camo/Charcoal
+          - Digi Palm
+          - Dirty Perm
+          - Distressed Black
+          - Distressed White
+          - Dolphin
+          - Dolphin Key Lime
+          - Dolphin White
+          - Drab Olive
+          - Drab Olive Heather
+          - Drifter Floral
+          - Dusk Blue
+          - Dusty Blue
+          - Dusty Cedar
+          - Electric Green
+          - Emerald Teal/Gray
+          - Ether
+          - Faded Denim
+          - Favorite
+          - Favorite Shield
+          - Felt & Kling-On Outsoles / Chocolate Chip/Black
+          - Felt & Kling-On Outsoles/Elmwood/Dark Earth
+          - Felt & Kling-On Soles/ Dried Herb/Black
+          - Felt & Kling-On Soles/Black
+          - Felt & Kling-On Soles/Black/Dark Gray
+          - Felt Sole/ Dried Herb/Black
+          - Felt and Kling-On Outsoles / Black
+          - Fennel Plaid
+          - Fern
+          - Fish Camo
+          - Fish Scales
+          - Fish The Baja
+          - Flatbill
+          - Flint Stone
+          - Floral
+          - Floral 19 Teal
+          - Florida
+          - Fog
+          - Forest
+          - Forest Camo
+          - Fuego
+          - Gator Bite Camo
+          - Gold
+          - Gold Flame
+          - Granite
+          - Graphite Heather
+          - Graphite/White
+          - Grassy Turtley
+          - Gray
+          - Gray / Black
+          - Gray Camo
+          - Gray Heather
+          - Gray Tee
+          - Gray/Black
+          - Gray/Blue
+          - Gray/Coal
+          - Gray/Fire
+          - Gray/Green
+          - Gray/Hydro Glacier
+          - Gray/Hydro Ice
+          - Gray/Navy
+          - Gray/Neon
+          - Gray/Neon Green
+          - Gray/Red
+          - Gray/Tan
+          - Gray/White
+          - Green
+          - Green Ash
+          - Green Camo
+          - Green Conceal Camo
+          - Green Heather
+          - Green Sailfish
+          - Green Stripe
+          - Green/Orange
+          - Grey
+          - Grey & Black
+          - Grey Blue
+          - Grey/Aqua
+          - Grey/Charcoal
+          - Grey/Verde
+          - Grey/White
+          - Guano
+          - Guava
+          - Gunmetal
+          - Gunmetal/Gunmetal
+          - Gunmetal/Thermal (Red Accents)
+          - Happy Hour White
+          - Heather Black
+          - Heather Charcoal
+          - Heather Columbia Blue
+          - Heather Deep Teal
+          - Heather Gray
+          - Heather Gray/Floral
+          - Heather Gray/Navy
+          - Heather Green
+          - Heather Grey/Red
+          - Heather Mint
+          - Heather Navy
+          - Heather Prism Ice Blue
+          - Heather Prism Lilac
+          - Heather Prism Peach
+          - Heather Red
+          - Heather Yellow
+          - Heather gray Tee
+          - Hemlock
+          - Hex Camo Carbon
+          - Hex Camo Croc
+          - Hex Camo Storm
+          - Hibiscus
+          - Highlighter Yellow
+          - Horizon Blue
+          - Horizon Stripe
+          - Hot Coral
+          - Hot Pink
+          - Hurricane Gray
+          - Hydro Blackwater
+          - Hydro Glacier
+          - Hydro Ice
+          - Hydro Mangrove
+          - Hydro Reflex
+          - Hydro Sailfish
+          - Ice Blue
+          - Ice Blue/Blue Horizon
+          - Icy
+          - Illusion Blue/Flint Stone
+          - Indigo
+          - Indigo Blue
+          - Indigo Heather
+          - Ink
+          - Irish Green
+          - Iron
+          - Iron Heather
+          - Iron/SubPhantis Glacier
+          - Island
+          - Island Charcoal
+          - Island Green
+          - Island Red
+          - Jenko Blue-White
+          - Jenko Grey-White
+          - Julep
+          - Jungle Camo
+          - Jungle Defender
+          - KC Aquabull/Fiery Red
+          - KC Baitball
+          - KC Bass
+          - KC Marlin
+          - KC Redfish
+          - Key Lime
+          - Khaki
+          - Khaki Black
+          - Khaki Camo
+          - Khaki Heather
+          - Khaki/Black Embroidery
+          - Khaki/Brown
+          - Khaki/Subphantis Southern Tier
+          - Khaki/White
+          - Kling-On & Studded Kling-On / Black
+          - Kling-On & Studded Kling-On / Black/Dark Gray
+          - Kling-On & Studded Kling-On / Chocolate Chip/Black
+          - Kling-On & Studded Kling-On/ Dried Herb/Black
+          - Kling-On & Studded Kling-On/Elmwood/Dark Earth
+          - Kryptek / Neon Yellow
+          - Kryptek Pontus/White
+          - Kryptek Raid
+          - Kryptek Typhon
+          - Lagoon Green
+          - Largo Blue
+          - Laser
+          - Lava
+          - Lavendar Khaki
+          - Light Blue
+          - Light Blue Heather
+          - Light Brown
+          - Light Gray
+          - Light Heather Gray
+          - Light Khaki
+          - Light Khaki Plaid
+          - Light On Sail
+          - Light Orange
+          - Light Pink
+          - Light Wash Country
+          - Lilac
+          - Lilac/Charcoal
+          - Lime
+          - Lime Aid
+          - Loden
+          - Long Cleats/ Black
+          - Long Radial Tip Cleats/ Black
+          - MagBay Camo
+          - Magenta
+          - Magnum Blue
+          - Magnum Blue Heather
+          - Mahi Mahi
+          - Malbec
+          - Mang
+          - Mango Heather
+          - Mangroflage
+          - Manta Gray Camo
+          - Marine Blue
+          - Marine Olive Drab
+          - Marlin
+          - Marlin Blue
+          - Marlin Skin
+          - Maroon
+          - Maroon/White Embroidery
+          - Marsala
+          - Marsala/Gray
+          - Marsh Green
+          - Martini Olive
+          - Martini Olive Heather
+          - Me Vale Marlin
+          - Mellow Rose
+          - Melon
+          - Melon Heather
+          - Menthol
+          - Metal
+          - Metalic/Blue
+          - Metalic/Green
+          - Metallic
+          - Midnight
+          - Midnight Blue
+          - Midnight Heather
+          - Military Green
+          - Military Olive Drab
+          - Military Olive Drab/Subphantis Southern Tier
+          - Milky Blue
+          - Mineral Fire
+          - Mint
+          - Mint Green
+          - Mint Heather
+          - Mist
+          - Misty Grey
+          - Moonstone
+          - Moonstone Heather
+          - Moss
+          - Mossy
+          - Mossy Oak Bottomland
+          - Mossy Oak Hydro Mangrove
+          - Mossy/Khaki
+          - Mother Ocean
+          - Multi Camo
+          - Multi Color Trout
+          - N/A
+          - Natural
+          - Nautical Blue
+          - Nautical Blue Heather
+          - Nautical Blue/Cyan
+          - Navy
+          - Navy Black
+          - Navy Blue
+          - Navy Frost
+          - Navy Heather
+          - Navy Stripe
+          - Navy Tee
+          - Navy/Hydro Ice
+          - Navy/Seafoam
+          - Navy/Subphantis SubZero
+          - Navy/White
+          - Neon Green
+          - Neon Mint Heather
+          - Neon Peach Heather
+          - Neon Sky Blue Heather
+          - Neon Sky Heather
+          - Neutral Ground Camo
+          - New Royal
+          - Nightshade Heather
+          - Nimbus Cloud/Tile Blue
+          - OD Green
+          - Oak
+          - Oatmeal
+          - Oatmeal Heather
+          - Oatmeal/ Navy
+          - Ocean
+          - Ocean Blue
+          - Ocean Blue Camo
+          - Ocean Night Conceal Camo
+          - Oceanside
+          - Ol' Salty
+          - Olive
+          - Olive Green
+          - Olive Heather
+          - Olive Stripe
+          - Olive/Black
+          - Orange
+          - Orange Camo
+          - Orange/White
+          - Palmetto Camo
+          - Paprika
+          - Patrol Blue
+          - Peacock
+          - Pearl Grey
+          - Pelagic
+          - Pelagic Species
+          - Peppered Charcoal Heather
+          - Pewter
+          - Phlox
+          - Pink
+          - Pink Taffy
+          - Pink/White Polka Dot
+          - Pistachio
+          - Platinum
+          - Plein Air
+          - Plum
+          - Plum Heather
+          - Pompano
+          - Predator
+          - Prussian Blue
+          - Pumpkin
+          - Pumpkin Black Camo
+          - Pumpkin Green
+          - Purple
+          - Purple Haze
+          - Purple Triblend
+          - Rainbow
+          - Raven
+          - Realtree MAX-5®
+          - Red
+          - Red & Gray
+          - Red & White
+          - Red Heather
+          - Red Heather/Black Graphic
+          - Red Ochre
+          - Red Redfish
+          - Red Shad
+          - Red Snapper
+          - Red Tee
+          - Redfish
+          - Redwood
+          - Reef Blue
+          - Reef/Charcoal
+          - Regular Cleats/ Black
+          - Restore The Flow
+          - Revere
+          - Rifle/Charcoal
+          - Rising Sailfish
+          - River Camo
+          - Riverside
+          - Riverside Heather
+          - Robins Egg
+          - Rose
+          - Rose & Flowers
+          - Royal
+          - Royal Blue
+          - Royal Heather
+          - Royal Poonciana
+          - Royal White
+          - Royal/Greenbriar
+          - Rust Stripe
+          - Rust Wash
+          - Rusty
+          - Rusty B1P1
+          - Rusty Black
+          - Rusty Red
+          - SWC Blue
+          - SWC Camo
+          - SWC Grey
+          - Sack Caddy Black/Black
+          - Saddle Brown
+          - Safari
+          - Safari Heather
+          - Sage
+          - Sagebrush
+          - Sailfish Logo
+          - Salmon
+          - Sand
+          - Sandstone/Charcoal
+          - Sargasso Sea
+          - Sargasso Sea Heather
+          - Sea Blue Heather
+          - Sea Wall Grey
+          - Seafoam
+          - Seagrass
+          - Seaspray
+          - Seawall
+          - Shadow/Black
+          - Sharkskin
+          - Sharp Cleats/ Black
+          - Shitake/Khaki
+          - Sickle Tuna Fin
+          - Sienna
+          - Silver
+          - Silver Blue
+          - Silver Heather
+          - Silver/Black
+          - Simms Orange
+          - Skull
+          - Sky
+          - Sky Blue
+          - Sky Camo
+          - Slam
+          - Slate Blue
+          - Slate Heather
+          - Smoke
+          - Smoke/Black
+          - Smoked Out
+          - Snow Camo
+          - Solar
+          - South Beach
+          - Space Blue
+          - Space Blue Heather
+          - Space Dye
+          - Spiced Coral Plaid
+          - Sport Grey
+          - Spring Pink
+          - Starlight Blue
+          - Steel
+          - Steel Blue
+          - Steel Grey
+          - Steel Heather
+          - Steel Wash
+          - Sterling
+          - Stone
+          - Stone White
+          - Storm
+          - Storm Gray
+          - Storm Grey/Charcoal
+          - Storm Plaid
+          - Straw
+          - Striker Grey
+          - SubPhantis Glacier
+          - SubPhantis Propwash
+          - SubPhantis Sub Zero
+          - Subphantis Current
+          - Subphantis Desert
+          - Subphantis Flow
+          - Subphantis Gulf Stream
+          - Subphantis Night Vision
+          - Subphantis Outgoing Tide
+          - Subphantis Shallows
+          - Subphantis Southern Tier
+          - Sun
+          - Sunflower Floral
+          - Sunny Cabana
+          - Sunset
+          - Tackle HD Hat Black/White
+          - Tackle HD Hat Charcoal/White
+          - Tackle HD Hat Mesh Charcoal/Neon Green
+          - Tackle HD Hoodie - Black
+          - Tackle HD Hoodie - Blue
+          - Tackle HD Hoodie - Charcoal
+          - Tackle HD Hoodie - Chartreuse
+          - Tahiti Blue
+          - Tahiti Blue Heather
+          - Tan
+          - Tan/Russett
+          - Tank
+          - Taupe
+          - Teak
+          - Teal
+          - Tee
+          - Tequila
+          - Terracotta
+          - Thunder Heather
+          - Thyme
+          - Tie Dye Black
+          - Tiger Conceal Camo
+          - Timber
+          - Tomato Red
+          - Tortoise/Gunmetal
+          - Tournament Blue
+          - Tropical
+          - Tropical BBD
+          - Tropical Breeze
+          - Tropical Collage
+          - Trout
+          - True Black
+          - True Grey Heather
+          - True Royal
+          - Tumbleweed
+          - Tuna Logo
+          - Tundra
+          - Turquoise
+          - Twilight
+          - Ultra Violet
+          - Ultramarine
+          - Ultraviolet
+          - Vallarta Blue/Lava
+          - Vapor
+          - Vapor Heather
+          - Verde
+          - Vintage Banana
+          - Vintage Chambray
+          - Vintage Coral
+          - Vintage Sea Foam
+          - Vintage Sunset Red
+          - Vintage Turquoise
+          - Violet
+          - Viva La Baja
+          - Vivid Blue
+          - Vivid Blue Heather
+          - Wahoo
+          - Wahoo Skin
+          - Washed Denim
+          - Water Blue
+          - Waterfall
+          - Wetstone
+          - Whisper Green
+          - Whisper Green/Sawgrass
+          - White
+          - White Marlin
+          - White Stripe
+          - White Tee
+          - White Tee/ Brown & Red Graphic
+          - White Tee/Black Graphic
+          - White/Black
+          - White/Hydro Reflex
+          - White/Navy
+          - White/Orange
+          - White/Silver
+          - White/SubPhantis Glacier
+          - Wintergreen
+          - Wizard Blue
+          - Yellow
+          - Yellow/Black
+          - Youth Florida
+          - Youth South Beach
+        color_material:
+          - Alewive White
+          - Assorted
+          - Assorted Clear Water
+          - Assorted Dark Water
+          - Assorted Solid
+          - Baby Bass
+          - Baby Walleye
+          - Bad Dude
+          - Black
+          - Black Blue
+          - Black Chrome
+          - Black Finish
+          - Black Matte
+          - Black Nickel
+          - Black Nickel Red
+          - Black Nickel White
+          - Black Nickel White C
+          - Blonde
+          - Blonde Red
+          - Blue
+          - Blue/Grey
+          - Blue/Straw
+          - Bright
+          - Bronze
+          - Bubblegum
+          - Camouflage Bronze
+          - Carter Casey
+          - Chartreuse
+          - Chartreuse / Green
+          - Chartreuse / Orange
+          - Chartreuse Purple
+          - Chartreuse/Orange
+          - Clear
+          - Clear Grey
+          - Clear Olive
+          - Clear/Light Green
+          - Clown
+          - Copper
+          - Dark Green/Blue
+          - Durasteel
+          - Duratin
+          - Fire Belly
+          - Firetiger
+          - Fish Camo
+          - Fluorocarbon
+          - Fluro Chartreuse
+          - Fruitti Tiger
+          - Fusic Tiger
+          - Glow Green
+          - Glow Powder & Green
+          - Glow Watermelon
+          - Glow/Blue
+          - Goby
+          - Gold
+          - Gold Muffin
+          - Gold Plated
+          - Gold Shiner
+          - Green
+          - Green Pumpkin
+          - Halloween
+          - Hammered Brass
+          - Hammered Nickel
+          - Happy Hooker
+          - Light Green/Dark Green
+          - Lights Out
+          - Lime
+          - Lime/Chartreuse
+          - Lumi Green
+          - Lumi White
+          - Mariannarchy
+          - Monofilament
+          - N/A
+          - Natural
+          - Nickel
+          - Orange
+          - Orange/Chartreuse
+          - Orange/Glow
+          - Parrot
+          - Partridge
+          - Peanut Butter Jelly
+          - Pearl
+          - Perch Firetiger
+          - Pink
+          - Pink/White
+          - Pumpkinseed Orange
+          - Purple Cisco
+          - Purple Claw
+          - Purple Firetiger
+          - Purple Scale
+          - Purpledescent
+          - Rainbow
+          - Red
+          - Shad
+          - Silky Grey
+          - Silver
+          - Silver Minnow
+          - Silver Plated
+          - Smelt
+          - Smoke Satin
+          - Sour Apple
+          - Sprayed Grass
+          - Stainless Steel
+          - Steel
+          - Straw/Clear
+          - Sunny
+          - Super Dude
+          - Super-Glo Chartreuse
+          - Super-Glo Green
+          - Super-Glo Luminescent
+          - Super-Glo Orange
+          - Super-Glo Pink
+          - Tennessee Shad
+          - Tin Red
+          - TitanX
+          - Unpainted
+          - Weight-Test 150lb
+          - Weight-Test 280lb
+          - Weight-Test 480lb
+          - Weight-Test 680lb
+          - Weight-Test 900lb
+          - White
+          - White Chartreuse
+          - White Glow
+          - Yellow
+        density:
+          - Float/Hover 
+          - Float/Hover/Intermediate
+          - Floating
+          - Hover/Intermediate/Sinking 2IPS
+          - Intermediate
+          - Intermediate/Float
+          - Intermediate/Sinking 2IPS
+          - Intermediate/Sinking 2IPS/Sinking 3IPS
+          - N/A
+          - Sinking
+          - Sinking 2IPS/Sinking 3IPS
+          - Sinking 2IPS/Sinking 3IPS/Sinking 4IPS
+          - Sinking 3IPS/Sinking 4IPS
+          - Sinking 3IPS/Sinking 4IPS/Sinking 5IPS
+          - Sinking 4IPS/Sinking 5IPS
+        description:
+          - 12in 
+          - All American Fish Grip
+          - Handle with Large Mesh Net Head
+          - Handle with Rubber Net Head
+          - Handle with Small Mesh Net Head
+          - Net Handle Only
+          - Net Head
+        design:
+          - 30x60 
+          - 36x72
+          - Big Sexy
+          - Brick Bass
+          - Coastal Kitchen
+          - Defender
+          - Favorite Full Logo
+          - Favorite Shield
+          - Jungle Defender
+          - N/A
+          - Ol' Salty
+          - Shay Bird
+          - Simmer Bass
+          - Simmer Saltwater
+          - Simmer Trout
+          - Simmer Walleye
+        diameter:
+          - 0.030\"
+          - N/A
+        gear_ratio:
+          - 1.0:1 
+          - 1.1:1
+          - 1.6:1
+          - 10.1:1
+          - 2.0:1
+          - 2.1:1
+          - 2.3:1 / 1.1:1
+          - 2.5:1
+          - 2.8:1
+          - 2.9:1
+          - 2.9:1 / 1.5:1
+          - 3.0:1
+          - 3.1:1
+          - 3.1:1 / 1.5:1
+          - 3.2:1
+          - 3.3:1
+          - 3.4:1
+          - 3.5:1
+          - 3.5:1 / 1.3:1
+          - 3.6:1
+          - 3.7:1
+          - 3.8:1
+          - 3.9:1
+          - 3.9:1 / 1
+          - 4.0:1
+          - 4.1:1
+          - 4.1:1 / 1.4:1
+          - 4.2:1
+          - 4.2:1 / 1.8:1
+          - 4.3:1
+          - 4.4:1
+          - 4.5:1 / 2.1:1
+          - 4.6:1
+          - 4.7:1
+          - 4.8:1
+          - 4.9:1
+          - 5.0:1
+          - 5.0:1 / 2.5:1
+          - 5.1:1
+          - 5.1:1 / 1
+          - 5.1:1 / 1.8:1
+          - 5.1:1 / 2.5:1
+          - 5.2:1
+          - 5.2:1 -  Rear Drag
+          - 5.2:1 - Front Drag
+          - 5.2:1 / 1.6:1
+          - 5.2:2
+          - 5.2:4
+          - 5.3:1
+          - 5.4:1
+          - 5.5:1
+          - 5.5:1 / 2.7:1
+          - 5.5:1 / 2.8:1
+          - 5.6:1
+          - 5.8:1
+          - 5.9:1
+          - 5:4:1 - Front Drag
+          - 5:4:1 - Rear Drag
+          - 6.0:1
+          - 6.0:1 / 2.8:1
+          - 6.1:1
+          - 6.1:1 / 2.8:1
+          - 6.2:1
+          - 6.3:1
+          - 6.4:1
+          - 6.6:1
+          - 6.75:1
+          - 7.0:1
+          - 7.1:1
+          - 7.2:1
+          - 7.3:1
+          - 7.4:1
+          - 7.5:1
+          - 7.6:1
+          - 8.0:1
+          - 8.1:1
+          - 8.2:1
+          - 8.5:1
+          - 9.0:1
+          - 9.2:1
+          - N/A
+        handle_position:
+          - Left 
+          - N/A
+          - Right
+          - Right - Power
+          - Right/Left
+          - Right/Left - Front Drag
+          - Right/Left - Rear Drag
+        head_length:
+          - 24' 
+          - 25'
+          - 27'
+          - 28'
+          - 29'
+          - 30'
+          - 31'
+          - 32'
+          - 32' 6\"
+          - 33'
+          - 34'
+          - 34' 6\"
+          - 35'
+          - 36'
+          - 36' 6\"
+          - 37'
+          - 38'
+          - 39'
+          - 40'
+          - 40' 6\"
+          - 41'
+          - 41' 6\"
+          - 42'
+          - 43' 6\"
+          - 44'
+          - 45'
+          - 45' 6\"
+          - 46' 6\"
+          - 47'
+          - 47' 6\"
+          - 49'
+          - 50'
+          - N/A
+        head_weight:
+          - 123gr/8gr 
+          - 130gr
+          - 150gr
+          - 154gr/10gr
+          - 170gr
+          - 185gr/12gr
+          - 190gr
+          - 200gr
+          - 216gr/14gr
+          - 220gr
+          - 230gr
+          - 239gr/15gr
+          - 247gr/16gr
+          - 250gr
+          - 260gr
+          - 270gr
+          - 270gr/17gr
+          - 277gr/18gr
+          - 278gr/18gr
+          - 280gr
+          - 285gr/18.5gr
+          - 300gr
+          - 301gr/19gr
+          - 308gr/20gr
+          - 316gr/20.5gr
+          - 330gr
+          - 332gr/21gr
+          - 340gr
+          - 350gr
+          - 360gr
+          - 363gr/23gr
+          - 370gr
+          - 380gr
+          - 386gr/25gr
+          - 390gr
+          - 417gr/27gr
+          - 420gr
+          - 430gr
+          - 450gr
+          - 463gr/30gr
+          - 478gr/31gr
+          - 480gr
+          - 510gr
+          - 540gr
+          - 540gr/35gr
+          - 555gr/36gr
+          - 633gr/41gr
+          - 694gr/45gr
+          - 93gr/6gr
+          - N/A
+        led_style:
+          - 1.5\" 
+          - 1.75\"
+          - 10 Pack
+          - 100 Pack
+          - 2\"
+          - 2.25\"
+          - 2.5\"
+          - 2.75\"
+          - 3 amp Fuse
+          - 3\"
+          - Amber
+          - Amber / 10'
+          - Amber / 11'
+          - Amber / 12'
+          - Amber / 13'
+          - Amber / 14'
+          - Amber / 15'
+          - Amber / 16'
+          - Amber / 17'
+          - Amber / 18'
+          - Amber / 19'
+          - Amber / 4'
+          - Amber / 5'
+          - Amber / 6'
+          - Amber / 7'
+          - Amber / 8'
+          - Amber / 9'
+          - Amber / Amber
+          - Amber / Amber / Amber
+          - Amber / Blue
+          - Amber / Green
+          - Amber / Orange
+          - Amber / Red
+          - Amber / White
+          - Black
+          - Blue
+          - Blue / 10'
+          - Blue / 11'
+          - Blue / 12'
+          - Blue / 13'
+          - Blue / 14'
+          - Blue / 15'
+          - Blue / 16'
+          - Blue / 17'
+          - Blue / 18'
+          - Blue / 19'
+          - Blue / 4'
+          - Blue / 5'
+          - Blue / 6'
+          - Blue / 7'
+          - Blue / 8'
+          - Blue / 9'
+          - Blue / Amber
+          - Blue / Blue
+          - Blue / Blue / Blue
+          - Blue / Blue / Green
+          - Blue / Blue / Orange
+          - Blue / Blue / Red
+          - Blue / Blue / White
+          - Blue / Green
+          - Blue / Green / Blue
+          - Blue / Green / Green
+          - Blue / Green / Orange
+          - Blue / Green / Red
+          - Blue / Green / White
+          - Blue / Orange
+          - Blue / Orange / Blue
+          - Blue / Orange / Green
+          - Blue / Orange / Orange
+          - Blue / Orange / White
+          - Blue / Red
+          - Blue / Red / Blue
+          - Blue / Red / Green
+          - Blue / Red / Orange
+          - Blue / Red / Red
+          - Blue / Red / White
+          - Blue / White
+          - Blue / White / Blue
+          - Blue / White / Green
+          - Blue / White / Orange
+          - Blue / White / Red
+          - Blue / White / White
+          - 'Color #1: Red/Green - Color #2: Blue - Color #3: Blue'
+          - 'Color #1: Red/Green - Color #2: Blue - Color #3: Green'
+          - 'Color #1: Red/Green - Color #2: Green - Color #3: Red'
+          - 'Color #1: Red/Green - Color #2: Green - Color #3: White'
+          - 'Color #1: Red/Green - Color #2: Red - Color #3: Blue'
+          - 'Color #1: Red/Green - Color #2: Red - Color #3: Red'
+          - 'Color #1: Red/Green - Color #2: Red - Color #3: White'
+          - 'Color #1: Red/Green - Color #2: White - Color #3: Blue'
+          - 'Color #1: Red/Green - Color #2: White - Color #3: White'
+          - Default Title
+          - Flood
+          - Flood / Black
+          - Flood / White
+          - Gold
+          - Green
+          - Green / 10'
+          - Green / 11'
+          - Green / 12'
+          - Green / 13'
+          - Green / 14'
+          - Green / 15'
+          - Green / 16'
+          - Green / 17'
+          - Green / 18'
+          - Green / 19'
+          - Green / 4'
+          - Green / 5'
+          - Green / 6'
+          - Green / 7'
+          - Green / 8'
+          - Green / 9'
+          - Green / Amber
+          - Green / Blue
+          - Green / Blue / Blue
+          - Green / Blue / Green
+          - Green / Blue / Orange
+          - Green / Blue / Red
+          - Green / Blue / White
+          - Green / Green
+          - Green / Green / Blue
+          - Green / Green / Green
+          - Green / Green / Orange
+          - Green / Green / Red
+          - Green / Green / White
+          - Green / Orange
+          - Green / Orange / Blue
+          - Green / Orange / Green
+          - Green / Orange / Orange
+          - Green / Orange / White
+          - Green / Red
+          - Green / Red / Blue
+          - Green / Red / Green
+          - Green / Red / Orange
+          - Green / Red / Red
+          - Green / Red / White
+          - Green / White
+          - Green / White / Blue
+          - Green / White / Green
+          - Green / White / Orange
+          - Green / White / Red
+          - Green / White / White
+          - Green/Amber
+          - N/A
+          - Orange
+          - Orange / 10'
+          - Orange / 11'
+          - Orange / 12'
+          - Orange / 13'
+          - Orange / 14'
+          - Orange / 15'
+          - Orange / 16'
+          - Orange / 17'
+          - Orange / 18'
+          - Orange / 19'
+          - Orange / 4'
+          - Orange / 5'
+          - Orange / 6'
+          - Orange / 7'
+          - Orange / 8'
+          - Orange / 9'
+          - Orange / Amber
+          - Orange / Blue
+          - Orange / Blue / Blue
+          - Orange / Blue / Green
+          - Orange / Blue / Orange
+          - Orange / Blue / White
+          - Orange / Green
+          - Orange / Green / Blue
+          - Orange / Green / Green
+          - Orange / Green / Orange
+          - Orange / Green / White
+          - Orange / Orange
+          - Orange / Orange / Blue
+          - Orange / Orange / Green
+          - Orange / Orange / Orange
+          - Orange / Orange / White
+          - Orange / Red
+          - Orange / Red / Blue
+          - Orange / Red / Green
+          - Orange / Red / Orange
+          - Orange / Red / White
+          - Orange / White
+          - Orange / White / Blue
+          - Orange / White / Green
+          - Orange / White / Orange
+          - Orange / White / White
+          - Pair
+          - Pink
+          - Purple
+          - RGB
+          - Red
+          - Red / 10'
+          - Red / 11'
+          - Red / 12'
+          - Red / 13'
+          - Red / 14'
+          - Red / 15'
+          - Red / 16'
+          - Red / 17'
+          - Red / 18'
+          - Red / 19'
+          - Red / 4'
+          - Red / 5'
+          - Red / 6'
+          - Red / 7'
+          - Red / 8'
+          - Red / 9'
+          - Red / Amber
+          - Red / Blue
+          - Red / Blue / Blue
+          - Red / Blue / Green
+          - Red / Blue / Orange
+          - Red / Blue / Red
+          - Red / Blue / White
+          - Red / Green
+          - Red / Green / Blue
+          - Red / Green / Green
+          - Red / Green / Orange
+          - Red / Green / Red
+          - Red / Green / White
+          - Red / Orange
+          - Red / Orange / Blue
+          - Red / Orange / Green
+          - Red / Orange / Orange
+          - Red / Orange / White
+          - Red / Red
+          - Red / Red / Blue
+          - Red / Red / Green
+          - Red / Red / Orange
+          - Red / Red / Red
+          - Red / Red / White
+          - Red / White
+          - Red / White / Blue
+          - Red / White / Green
+          - Red / White / Orange
+          - Red / White / Red
+          - Red / White / White
+          - Red/Green Combo / Blue / Red
+          - Red/Green Combo / Blue / White
+          - Red/Green Combo / Green / Blue
+          - Red/Green Combo / Green / Green
+          - Red/Green Combo / Red / Green
+          - Red/Green Combo / White / Green
+          - Red/Green Combo / White / Red
+          - Silver
+          - Single
+          - Spot
+          - Spot / Black
+          - Spot / White
+          - Varied
+          - White
+          - White / 10'
+          - White / 11'
+          - White / 12'
+          - White / 13'
+          - White / 14'
+          - White / 15'
+          - White / 16'
+          - White / 17'
+          - White / 18'
+          - White / 19'
+          - White / 4'
+          - White / 5'
+          - White / 6'
+          - White / 7'
+          - White / 8'
+          - White / 9'
+          - White / Amber
+          - White / Blue
+          - White / Blue / Blue
+          - White / Blue / Green
+          - White / Blue / Orange
+          - White / Blue / Red
+          - White / Blue / White
+          - White / Green
+          - White / Green / Blue
+          - White / Green / Green
+          - White / Green / Orange
+          - White / Green / Red
+          - White / Green / White
+          - White / Orange
+          - White / Orange / Blue
+          - White / Orange / Green
+          - White / Orange / Orange
+          - White / Orange / White
+          - White / Red
+          - White / Red / Blue
+          - White / Red / Green
+          - White / Red / Orange
+          - White / Red / Red
+          - White / Red / White
+          - White / White
+          - White / White / Blue
+          - White / White / Green
+          - White / White / Orange
+          - White / White / Red
+          - White / White / White
+        length:
+          - 10' 
+          - 10' (ALTMGLDD102-6)
+          - 10' (ALTMNW102-6)
+          - 10' 6\"
+          - 10' 6\" (WSSP1062UL)
+          - 10' 6\" (WSSP1062UL-W)
+          - 10' 9\"
+          - 10'1\"
+          - 11'
+          - 11' 1\"
+          - 11' 3\"
+          - 11' 6\"
+          - 11' 9\"
+          - 12'
+          - 12' 6\"
+          - 12' 9\"
+          - 13'
+          - 13' 6\"
+          - 13' 9\"
+          - 14'
+          - 14' 6\"
+          - 14' 9\"
+          - 15'
+          - 15' 1\"
+          - 16'
+          - 20\"
+          - 20'
+          - 21\"
+          - 23\"
+          - 24\"
+          - 25\"
+          - 25\" A
+          - 25\" D
+          - 25” | 29”
+          - 26\"
+          - 27\"
+          - 28\"
+          - 28\" B
+          - 28\" D
+          - 29\"
+          - 3'
+          - 3' 2\"
+          - 3' 3\"
+          - 3' 6\"
+          - 3' 8\"
+          - 30\"
+          - 30\" B
+          - 30\" D
+          - 31\"
+          - 32\"
+          - 4' 6\"
+          - 4' 8\"
+          - 4' 9\"
+          - 5'
+          - 5' 10\"
+          - 5' 11\"
+          - 5' 6\"
+          - 5' 6\" (TWSUAR5013056)
+          - 5' 6\" (TWSURR5013056)
+          - 5' 8\"
+          - 5' 9\"
+          - 6'
+          - 6' (TWSUNR308060)
+          - 6' (TWSURR308060)
+          - 6' 10\"
+          - 6' 11\"
+          - 6' 2\"
+          - 6' 3\"
+          - 6' 4\"
+          - 6' 6\"
+          - 6' 6\" TU
+          - 6' 7\"
+          - 6' 8\"
+          - 6' 9\"
+          - 6' AR
+          - 6' ARBB
+          - 6' TU
+          - 7'
+          - 7' (BATIN1017S70)
+          - 7' (BATIN1017S70SG)
+          - 7' (BATIN410S70)
+          - 7' (BATIN410S70SG)
+          - 7' (BATIN612S70)
+          - 7' (BATIN612S70SG)
+          - 7' (BATIN815S70)
+          - 7' (BATIN815S70SG)
+          - 7' (HMX70M-FC-MIC)
+          - 7' (HMX70MH-FC-MIC)
+          - 7' 1\"
+          - 7' 10\"
+          - 7' 11\"
+          - 7' 2\"
+          - 7' 3\"
+          - 7' 4\"
+          - 7' 5\"
+          - 7' 6\"
+          - 7' 8\"
+          - 7' 9\"
+          - 8'
+          - 8' 10\"
+          - 8' 2\"
+          - 8' 3\"
+          - 8' 6\"
+          - 8' 8\"
+          - 8' 9\"
+          - 9'
+          - 9' (WSSP92ML)
+          - 9' (WSSP92ML-W)
+          - 9' 6\"
+          - 9' 9\"
+          - 9' F
+          - 9' S
+          - 9'1\"
+          - 9'7\"
+        line_break_strength:
+          - 100lb | 45.3kg 
+          - 102lb | 46.3kg
+          - 10lb | 4.5kg
+          - 12-20lb | 5.4-9kg
+          - 120lb | 54.4kg
+          - 12lb | 5.4kg
+          - 130lb | 58.9kg
+          - 135lb | 61.2kg
+          - 13lb | 6.0kg
+          - 14lb | 6.3kg
+          - 150-200lb | 68-90.7kg
+          - 150lb | 68.0kg
+          - 15lb | 6.8kg
+          - 160lb | 72.6kg
+          - 16lb | 7.2kg
+          - 170lb | 77.1kg
+          - 175lb | 79.3kg
+          - 17lb | 7.7kg
+          - 180lb | 81.6kg
+          - 18lb | 8.1kg
+          - 1lb | 0.4kg
+          - 200lb | 90.7kg
+          - 20lb | 9kg
+          - 21lb | 9.5kg
+          - 22lb | 10.3kg
+          - 24lb | 11.2kg
+          - 25-50lb | 11.3-22.6kg
+          - 250lb | 113.3kg
+          - 25lb | 11.3kg
+          - 26lb | 11.8kg
+          - 275lb | 124.7kg
+          - 27lb | 12.2kg
+          - 2lb | 0.9kg
+          - 300lb | 136.0kg
+          - 30lb | 13.6kg
+          - 35lb | 15.8kg
+          - 36lb | 16.5kg
+          - 39lb | 18.0kg
+          - 3lb | 1.3kg
+          - 400lb | 181.4kg
+          - 40lb | 18.1kg
+          - 450lb | 204.1kg
+          - 45lb | 20.4kg
+          - 4lb | 1.8kg
+          - 500lb | 226.7kg
+          - 50lb | 22.6kg
+          - 52lb | 23.6kg
+          - 58lb | 26.4kg
+          - 5lb | 2.2kg
+          - 60-80lb | 27.2-36.2kg
+          - 60lb | 27.2kg
+          - 65lb | 29.4kg
+          - 6lb | 2.7kg
+          - 7.5kg | 16lb
+          - 7lb | 3.18kg
+          - 800lb | 362.8kg
+          - 80lb | 36.2kg
+          - 81lb | 37.0kg
+          - 83lb | 38.1kg
+          - 8lb | 3.6kg
+          - 90-125lb | 40.8-56.7kg
+          - 90lb | 40.8kg
+          - 9lb | 4kg
+          - N/A
+          - Varied
+        line_rating:
+          - 1-4lb 
+          - 1-6lb
+          - 10-16lb
+          - 10-17lb
+          - 10-20lb
+          - 10-25lb
+          - 10-30lb
+          - 10-50lb
+          - 10/11wt
+          - 100-200lb
+          - 10wt
+          - 11wt
+          - 12-17lb
+          - 12-20lb
+          - 12-25lb
+          - 12-30lb
+          - 12wt
+          - 130lb
+          - 14 - 26 lb
+          - 14-20lb
+          - 14-25lb
+          - 14-30lb
+          - 14-40lb
+          - 14-50lb
+          - 15-25lb
+          - 15-30lb
+          - 15-40lb
+          - 15-45lb
+          - 15-50lb
+          - 16-30lb
+          - 17-30lb
+          - 17-40lb
+          - 17-80lb
+          - 2-4lb
+          - 2-6lb
+          - 2-8lb
+          - 2.5-6lb
+          - 20-30lb
+          - 20-40lb
+          - 20-50lb
+          - 20-65lb
+          - 20-80lb
+          - 25-50lb
+          - 25-80lb
+          - 2wt
+          - 3-6lb
+          - 3/4wt
+          - 30-50lb
+          - 30-60lb
+          - 30-65lb
+          - 30-80lb
+          - 3wt
+          - 4-10lb
+          - 4-12lb
+          - 4-15lb
+          - 4-20lb
+          - 4-6lb
+          - 4-8lb
+          - 4/5wt
+          - 40-60lb
+          - 40-80lb
+          - 4wt
+          - 5-10lb
+          - 5-12lb
+          - 5/6wt
+          - 50-100lb
+          - 50-130lb
+          - 50-80lb
+          - 50lb
+          - 55-80lb Braid
+          - 5wt
+          - 6-10lb
+          - 6-12lb
+          - 6-14lb
+          - 6-15lb
+          - 6-16lb
+          - 6-17lb
+          - 6-20lb
+          - 6/7wt
+          - 60-100lb
+          - 6lb
+          - 6wt
+          - 7/8wt
+          - 7wt
+          - 8-12lb
+          - 8-14lb
+          - 8-15lb
+          - 8-16lb
+          - 8-17lb
+          - 8-20lb
+          - 8/9wt
+          - 80-130lb
+          - 80-200lb
+          - 80-250lb
+          - 80lb
+          - 8wt
+          - 9/10wt
+          - 9wt
+          - N/A
+        lure_box:
+          - 1 Month 
+          - 12 Months
+          - 3 Months
+          - 6 Months
+          - Default
+          - N/A
+          - Varied
+        model:
+          - '14179' 
+          - '14404'
+          - '14462'
+          - '14500'
+          - '14515'
+          - '14677'
+          - '14681'
+          - '14944'
+          - '14945'
+          - '14946'
+          - '14947'
+          - '15013'
+          - '15019'
+          - '15026'
+          - '15033'
+          - '15395'
+          - '15605'
+          - '15606'
+          - '15607'
+          - '15609'
+          - 16 Foot Spider Troll Power Tip
+          - BARTRK-B
+          - JD7602 Tip
+          - JHS1002 Tip
+          - JHS1102RS Tip
+          - KR1002JR-T
+          - KR1102JR-T
+          - KR1302JR-T
+          - LWTOP
+          - Lucky 13 Tip
+          - Osprey SS 3000/4000
+          - Osprey SS 6000
+          - Osprey SS 8000
+          - PHA-B
+          - PHA-S
+          - SC1002 Tip
+          - SC1202 Tip
+          - SC1403 Tip
+          - SC1603 Tip
+          - ST1202 Tip
+          - ST1403 Tip
+          - ST1603 Tip
+        orientation:
+          - Left 
+          - N/A
+          - Right
+          - Right/Left
+        pieces:
+          - 1 pc 
+          - 2 pcs
+          - 3 pcs
+          - 4 pcs
+          - 5 pcs
+          - 6 pcs
+          - 7 pcs
+          - 8 pcs
+          - N/A
+          - Telescopic
+        power:
+          - 6-12 | 8-14 
+          - 8-17 | 10-20
+          - Extra Extra Heavy
+          - Extra Heavy
+          - Extra Light
+          - Extra Ultra Light
+          - Fly
+          - Heavy
+          - LIGHT Action
+          - Light
+          - Medium
+          - Medium Heavy
+          - Medium Light
+          - Medium Light | Medium
+          - Medium | Medium Heavy
+          - N/A
+          - Super Ultra Light
+          - Ultra Light
+        quantity_in_pack:
+          - '1' 
+          - 1 Pair
+          - '10'
+          - '100'
+          - 100/Bag
+          - '1000'
+          - '11'
+          - '116'
+          - '12'
+          - '125'
+          - '13'
+          - '135'
+          - '14'
+          - '140'
+          - '144'
+          - '15'
+          - '150'
+          - '16'
+          - '18'
+          - '2'
+          - 2 Rigged & 2 Tails
+          - 2 Rigged & 3 Tails
+          - '20'
+          - '200'
+          - '24'
+          - '240'
+          - '25'
+          - '3'
+          - 3 Pairs
+          - '30'
+          - '33'
+          - '35'
+          - '36'
+          - '4'
+          - '40'
+          - '41'
+          - '5'
+          - '50'
+          - '55'
+          - '6'
+          - '61'
+          - '7'
+          - '75'
+          - '8'
+          - '9'
+          - Bag
+          - Box
+          - Bulk
+          - Double
+          - Half Pint 4x7
+          - Jar
+          - Jar (Half Pint)
+          - Jar (Pint)
+          - Kite with Stinger
+          - N/A
+          - Non Rigged
+          - Pint 4x7
+          - Rigged
+          - Single
+        scent:
+          - American Pie 
+          - Assorted
+          - Bass
+          - Blood
+          - Blood (14oz)
+          - Blood (3oz)
+          - Blood and Cheese
+          - Bloody Blood
+          - Bloody Chicken
+          - Bloody Shad
+          - Blue Ice
+          - Blue Neon
+          - Blue Sapphire
+          - Catfish
+          - Cheese
+          - Cheese (14oz)
+          - Cheese (3oz)
+          - Chicken Blood
+          - Chicken Liver
+          - Corn
+          - Crab
+          - Crappie/Panfish
+          - Crawfish
+          - Cut Shad
+          - Garlic
+          - Garlic Mint
+          - Herring
+          - Liver and Blood
+          - Liver and Cheese
+          - Minnow
+          - N/A
+          - Natural
+          - Nightcrawler
+          - Nymph
+          - Original Scent
+          - Roe
+          - Rotten Cheese
+          - Salmon Egg
+          - Salmon Peach
+          - Shad
+          - Shad/Shiner
+          - Shrimp
+          - Squid
+          - Trout
+          - Walleye
+        seat:
+          - Mid 
+          - N/A
+          - Rear
+        size:
+          - '0' 
+          - '1'
+          - '10'
+          - '12'
+          - 12-18m
+          - '14'
+          - '16'
+          - '18'
+          - 18-24m
+          - 18in
+          - '2'
+          - 2-3 L
+          - '20'
+          - 20L
+          - '22'
+          - '24'
+          - 24in
+          - 24mo Toddler
+          - '26'
+          - '28'
+          - 2T
+          - 2X
+          - 2XL
+          - 2XLarge - Tall
+          - 3-6m
+          - '30'
+          - 30/31
+          - 30/34
+          - 30L
+          - '32'
+          - 32/31
+          - 32/34
+          - '33'
+          - '34'
+          - 34/31
+          - 34/34
+          - '35'
+          - '36'
+          - 36/31
+          - 36/34
+          - '38'
+          - 38/31
+          - 38/34
+          - 38mm
+          - 3T
+          - 3X
+          - 3XL
+          - 3XLarge - Tall
+          - 3yo Toddler
+          - '4'
+          - '40'
+          - 40/31
+          - 40/34
+          - 40L
+          - '42'
+          - '44'
+          - '46'
+          - '48'
+          - 48mm
+          - 4T
+          - 4XL
+          - 4yo Toddler
+          - '50'
+          - '5000'
+          - 50L
+          - 5T
+          - 5XL
+          - '6'
+          - 6-12m
+          - '6000'
+          - 60L
+          - 6XL
+          - '7000'
+          - '8'
+          - Adjustable
+          - Adult
+          - BIGGIE
+          - Default
+          - L
+          - L/XL
+          - LG
+          - Large Long
+          - Large Short
+          - M
+          - M/L
+          - Medium Long
+          - Medium Short
+          - N/A
+          - One Size
+          - S
+          - S/M
+          - Set 1
+          - Set 2
+          - Set 3
+          - Small Long
+          - Small Short
+          - Universal
+          - XL
+          - XLarge Long
+          - XLarge Short
+          - XLarge Tall
+          - XS
+          - XXS
+          - Youth
+          - Youth 2XL
+          - Youth 3XL
+          - Youth 4XL
+          - Youth L
+          - Youth L Long
+          - Youth M
+          - Youth M Long
+          - Youth One Size
+          - Youth S
+          - Youth S Long
+          - Youth XL
+          - Youth XS
+        sonar:
+          - CHIRP (Castable) 
+          - Mega-Down Imaging
+          - Mega-Side Imaging
+          - N/A
+        style:
+          - 30(lb) Mono Main Line - 20(lb) Mono Branch Line 
+          - 40(lb) Mono Main Line - 30(lb) Mono Branch Line
+          - 60(lb) Mono Main Line - 40(lb) Mono Branch Line
+          - Alewive White
+          - Amber Sparkle
+          - Assorted
+          - Assorted Clear Water
+          - Assorted Dark Water
+          - Black
+          - Black Gold
+          - Black Gold Sunset
+          - Black Nickel
+          - Black Silver
+          - Black Widow
+          - Blue
+          - Blue Pearl
+          - Blue Scale
+          - Blue Shiner
+          - Blue Silver
+          - Blue Tiger
+          - Bronze
+          - Bubblegum
+          - Cedar Plugs
+          - Chartreuse
+          - Chartreuse Green
+          - Chartreuse Orange
+          - Chartreuse Sparkle
+          - Chartreuse/Black Stripe
+          - Cisco Purple
+          - Clear Blue
+          - Clear Chartreuse
+          - Clear Orange
+          - Clear Pink
+          - Clear Tip Blue
+          - Clear Tip Chartreuse
+          - Clear Tip Orange
+          - Clear Tip Pink
+          - Clown
+          - Copper
+          - Copper Rainbow
+          - Crawdad
+          - Crawfish
+          - Crawler/Leech
+          - Dace Pink
+          - Dark Cerise
+          - Electric Perch
+          - Emerald Shiner
+          - Feather & Flash
+          - Fire Perch
+          - Firetiger
+          - Fish Skin
+          - Flashback
+          - Glo Gold Tiger
+          - Glow
+          - Glow Skin Flash
+          - Glow/Black Stripe
+          - Goby Gold
+          - Gold
+          - Gold Black
+          - Gold Fish Skin
+          - Gold Fish Skin with Flash
+          - Gold Perch
+          - Gold Rainbow
+          - Gold Shiner
+          - Golden Craw
+          - Golden Perch
+          - Green
+          - Green Black
+          - Green Pearl
+          - Green Sparkle
+          - Green/White
+          - Hage Aurora
+          - Hammered Brass
+          - Hammered Copper
+          - Hammered Gold
+          - Hammered Nickel
+          - Hammered Silver
+          - Hex Copper
+          - Hex Gold
+          - Hex Nickel
+          - Hex Nickel Blue
+          - Hex Nickel Purple
+          - Hex Nickel Red
+          - Hex Purple
+          - Hex Sunfish
+          - Hot Yellow
+          - Kryptonite
+          - Lemon Lime
+          - Lime Chartreuse
+          - Luminous
+          - Mackerel Fish Skin
+          - Metallic Chartreuse
+          - Metallic Gold
+          - Metallic Orange
+          - Metallic Silver
+          - Minnow
+          - Mono Leader
+          - Moonlight
+          - Multicolor
+          - N/A
+          - Natural
+          - Nickel Rainbow
+          - Opaque Chartreuse
+          - Orange
+          - Orange Cedar
+          - Orange Chartreuse
+          - Orange Cougar
+          - Orange Craw
+          - Orange Pearl
+          - Orange Yellow
+          - Orange/Black
+          - Parakeet
+          - Parakeet Rainbow
+          - Parrot
+          - Parrot Pink
+          - Parrot Tiger
+          - Pearl
+          - Pearl Silver
+          - Perch
+          - Perch Firetiger
+          - Pink
+          - Pink Lemonade
+          - Pink Perch
+          - Pink Purple Tip
+          - Pink Shine
+          - Pink Sparkle
+          - Purple
+          - Purple Bengal
+          - Purple Candy
+          - Purple Cisco
+          - Purple Dawn
+          - Purple Pearl
+          - Purple Perch
+          - Purple Rain
+          - Purple Scale
+          - Purple Tiger
+          - Rainbow
+          - Rainbow Dace
+          - Rainbow Flash Rig
+          - Rainbow Glow Skin with Flash
+          - Rainbow Poly Rig
+          - Red
+          - Red Fish Skin
+          - Red Ladybug
+          - Red Rainbow
+          - Shrimp
+          - Shrimp- Poly Body
+          - Silver
+          - Silver Flash
+          - Silver Minnow
+          - Silver Scale
+          - Silver Shiner
+          - Smelt
+          - Sunfish
+          - Sunny
+          - Sunrise
+          - Sunrise Rainbow
+          - Sunshine
+          - UV Fire Perch
+          - UV Glo Red
+          - UV Glo Shiner
+          - UV Gold Christmas
+          - UV Hot Steel
+          - UV Silver Christmas
+          - UV Tiger
+          - UV Wonderbread White
+          - Watermelon
+          - White
+          - White Holo with Flash
+          - White Red Tip
+          - Whiteout
+          - Wire Leader
+          - Wonderbread
+          - Yellow
+          - Yellow Perch
+          - Yellow Rainbow
+        swim_depth:
+          - 0 - 1' 
+          - 0 - 10'
+          - 0 - 4\"
+          - 0 - 6\"
+          - 1' - 2'
+          - 10'
+          - 10' - 12'
+          - 10' - 15'
+          - 12'
+          - 13' - 15'
+          - 14'
+          - 14-18'
+          - 15'
+          - 15' - 20'
+          - 16'
+          - 18' - 20'
+          - 2' - 4'
+          - 2' - 6'
+          - 2' - 8'
+          - 20'
+          - 25'+
+          - 3'
+          - 3' - 4'
+          - 3' - 5'
+          - 3' - 6'
+          - 4'
+          - 4' - 5'
+          - 4' - 6'
+          - 4' - 8'
+          - 5' - 16'
+          - 5' - 6'
+          - 5' - 7'
+          - 5' - 8'
+          - 6'
+          - 6' - 10'
+          - 6' - 11'
+          - 6' - 13'
+          - 6' - 7'
+          - 6' - 8'
+          - 7' - 10'
+          - 7' - 11'
+          - 7' - 8'
+          - 7' - 9'
+          - 8'
+          - 8' - 10'
+          - N/A
+          - Non Rigged
+          - Rigged
+          - Rigged with 36 oz Trolling Weight
+          - Unrigged
+          - Variable
+          - With Hooks
+          - Without Hooks
+        value:
+          - \"$10\" 
+          - \"$100\"
+          - \"$125.00\"
+          - \"$200\"
+          - \"$25\"
+          - \"$250\"
+          - \"$300\"
+          - \"$50\"
+          - \"$500.00\"
+          - \"$75\"
+        weight:
+          - \"#0 Colorado Blade\"
+          - \"#1 Colorado Blade\"
+          - \"#1 Hook\"
+          - \"#1/0 Hook\"
+          - \"#2 Colorado Blade\"
+          - \"#2 Hook\"
+          - \"#3 Colorado Blade\"
+          - \"#4 Colorado Blade\"
+          - \"#4 Hook\"
+          - 0.25oz
+          - 0.32oz
+          - 0.36oz
+          - 0.37oz
+          - 0.38oz
+          - 0.39oz
+          - 0.6oz
+          - 0.74oz
+          - 0.7oz
+          - 0.88oz
+          - 0.9oz
+          - 1 1/2 oz
+          - 1 1/2oz
+          - 1 1/3oz
+          - 1 1/4oz
+          - 1 1/8oz
+          - 1 3/16oz
+          - 1 3/4oz
+          - 1 3/5oz
+          - 1 3/8oz
+          - 1 5/16oz
+          - 1 5/8oz
+          - 1 7/8oz
+          - 1.05oz
+          - 1.09oz
+          - 1.23oz
+          - 1.41oz
+          - 1.48oz
+          - 1.5oz
+          - 1.62oz
+          - 1.6oz
+          - 1.7oz
+          - 1/100oz
+          - 1/10oz
+          - 1/12oz
+          - 1/150oz
+          - 1/15oz
+          - 1/16oz
+          - 1/16oz, 1/8oz & 1/4oz sizes
+          - 1/24oz
+          - 1/28oz
+          - 1/2oz
+          - 1/32oz
+          - 1/3oz
+          - 1/48oz
+          - 1/4oz
+          - 1/57oz
+          - 1/5oz
+          - 1/64oz
+          - 1/6oz
+          - 1/72oz
+          - 1/80oz
+          - 1/8oz
+          - 1/8oz & 1/4oz
+          - 1/8oz, 1/4oz & 3/8oz
+          - 10.58oz
+          - 10.63g
+          - 11.29oz
+          - 11/16oz
+          - 12oz
+          - 14.10oz
+          - 14.17g
+          - 14g
+          - 15/16oz
+          - 15g
+          - 160g
+          - 17.63oz
+          - 180g
+          - 1oz
+          - 2 1/2oz
+          - 2 1/4 oz
+          - 2 3/4oz
+          - 2 3/8oz
+          - 2 5/8oz
+          - 2 7/8oz
+          - 2.12oz
+          - 2.25oz
+          - 2.2oz
+          - 2.54oz
+          - 2.82oz
+          - 2/3oz
+          - 2/5oz
+          - 2/7oz
+          - 20g
+          - 21.26g
+          - 24 oz
+          - 250g
+          - 25g
+          - 28.35g
+          - 2oz
+          - 3 1/2oz
+          - 3 1/4oz
+          - 3 1/8oz
+          - 3 3/8oz
+          - 3 5/8oz
+          - 3.17oz
+          - 3.53oz
+          - 3.5g
+          - 3/16oz
+          - 3/32oz
+          - 3/4oz
+          - 3/5oz
+          - 3/64oz
+          - 3/7oz
+          - 3/8 Oz
+          - 3/8oz
+          - 30g
+          - 36 oz
+          - 38oz
+          - 3oz
+          - 4 1/2oz
+          - 4 1/5 oz
+          - 4 3/4oz
+          - 4 5/8oz
+          - 4.23oz
+          - 4.2oz
+          - 40g
+          - 4oz
+          - 5.29oz
+          - 5/16oz
+          - 5/6oz
+          - 5/8oz
+          - 5g
+          - 5oz
+          - 6 1/2oz
+          - 6.35oz
+          - 6.5oz
+          - 6oz
+          - 7 3/8oz
+          - 7.05oz
+          - 7/16oz
+          - 7/64oz
+          - 7/8oz
+          - 7g
+          - 7oz
+          - 8 5/8oz
+          - 8.11oz
+          - 8.47oz
+          - 8.82oz
+          - 8oz
+          - 9.17oz
+          - 9.88oz
+          - 9/16oz
+          - "Depth: 0 - 1'"
+          - "Depth: 10' - 12'"
+          - "Depth: 12'"
+          - "Depth: 13' - 15'"
+          - "Depth: 16'"
+          - "Depth: 2' - 4'"
+          - "Depth: 2' - 6'"
+          - "Depth: 20'"
+          - "Depth: 3' - 4'"
+          - "Depth: 3' - 5'"
+          - "Depth: 4'"
+          - "Depth: 4' - 5'"
+          - "Depth: 4' - 8'"
+          - "Depth: 5' - 6'"
+          - "Depth: 5' - 7'"
+          - "Depth: 6' - 8'"
+          - "Depth: 7' - 10'"
+          - "Depth: 7' - 9'"
+          - "Depth: 8' - 10'"
+          - Floating
+          - N/A
+          - Sinking
+          - Super Long Distance
+          - Varied
+        prototypes:
+          - Angling Bait / Dough
+          - Apparel
+          - Apparel Accessories
+          - Apparel without Qty in Pack
+          - Artificial Bait
+          - Artwork
+          - Attractant
+          - Bag
+          - Blade Bait
+          - Boat Outfitting
+          - Bobber
+          - Buckets
+          - Bugs, Grubs & Fry
+          - Bundles
+          - Buzzbait
+          - Can Koozie
+          - Cast Nets
+          - Casting Reel
+          - Chunk / Trailer
+          - Combo (Rod & Reel)
+          - Conventional Reel
+          - Crankbait
+          - Creatures & Craws
+          - Default
+          - Dollar Value
+          - Electronic Lures
+          - Eyewear
+          - Fabric product
+          - Fish Finder
+          - Fishing products
+          - Fly
+          - Fly Line
+          - Fly Reel
+          - Fly Rod
+          - Fly combo
+          - Footwear
+          - Frogs & Soft Topwater Lures
+          - Hair Jigs, Feather Jigs, Covered Jigs
+          - Hand tool with Length
+          - Hard Swimbait
+          - Hatches, Plates & Lids
+          - Hybrid Swimbait
+          - Ice Fishing Combo
+          - Ice Fishing Reel
+          - Ice Fishing Rod
+          - Item with Common Size
+          - Item with Model Number
+          - Jack Plates
+          - Jerkbait
+          - Jigs
+          - Keyring
+          - LED Lights
+          - Landing Net
+          - Line
+          - Lipless Crankbait
+          - Lizard
+          - Lure & Rig Storage
+          - Lure Box
+          - Lure Bundle
+          - Lures
+          - Lures with Weight and Length
+          - Marine Style
+          - Mounts & Accessories
+          - Phone Cases
+          - Photography
+          - Planer Board
+          - Plumbing & Drain
+          - Product with Color
+          - Product with Description
+          - Reel
+          - Reel management
+          - Rod
+          - Rod Holders & Other Fishing Products
+          - Rod with Reel Seat Position
+          - Rods Sleeves, Socks & Wraps
+          - Scales & Measurement Tools
+          - Shrimp
+          - Silicone Rings
+          - Smart Watch
+          - Soft Swimbaits
+          - Spinner
+          - Spinning Reel
+          - Spoon
+          - Spy & Search Lures
+          - Squid
+          - Sticker
+          - Terminal Tackle
+          - Terminal Tackle - Component
+          - Terminal Tackle - Hook, Snap or Swivel
+          - Terminal Tackle - Jighead
+          - Terminal Tackle - Leader
+          - Terminal Tackle - Rigs & Snells
+          - Terminal Tackle - Weight
+          - Terminal Tackle - Weighted Hook
+          - Topwater Baits
+          - Traps
+          - Trolling Bait
+          - Tube (lure)
+          - Twitchbait
+          - Umbrella Rigs
+          - Watch Bands
+          - Worms & Leeches
