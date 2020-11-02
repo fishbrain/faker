@@ -7,7 +7,7 @@ module Faker
 
       OPTION_VALUES = %w[aftm_rating action buckets_color buoyancy capacity casting_weight color color_material density
                          description design diameter gear_ratio handle_position head_length head_weight led_style length
-                         line_break_strength line_rating lure_boxe model orientation pieces power quantity_in_pack scent
+                         line_break_strength line_rating lure_box model orientation pieces power quantity_in_pack scent
                          seat size sonar style swim_depth value weight]
 
       class << self
