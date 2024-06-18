@@ -21,4 +21,10 @@ Faker::Commerce.price(range: 0..10.0, as_string: true) #=> "2.18"
 # Keyword arguments: digits
 Faker::Commerce.promotion_code #=> "AmazingDeal829102"
 Faker::Commerce.promotion_code(digits: 2) #=> "AmazingPrice57"
+
+# Generate a random brand
+Faker::Commerce.brand #=> "Apple"
+
+# Generate a random vendor
+Faker::Commerce.vendor #=> "Walmart"
 ```

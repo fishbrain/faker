@@ -5,6 +5,19 @@ module Faker
     class Dota < Base
       class << self
         ##
+        # Produces the name of a building from Dota.
+        #
+        # @return [String]
+        #
+        # @example
+        #   Faker::Games::Dota.building #=> "Tower"
+        #
+        # @faker.version 1.9.0
+        def building
+          fetch('games.dota.building')
+        end
+
+        ##
         # Produces the name of a hero from Dota.
         #
         # @return [String]
@@ -67,11 +80,7 @@ module Faker
         #   Faker::Games::Dota.quote(hero: 'alchemist') #=> "Better living through alchemy!"
         #
         # @faker.version 1.9.0
-        def quote(legacy_hero = NOT_GIVEN, hero: 'abaddon')
-          warn_for_deprecated_arguments do |keywords|
-            keywords << :hero if legacy_hero != NOT_GIVEN
-          end
-
+        def quote(hero: 'abaddon')
           fetch("games.dota.#{hero}.quote")
         end
       end

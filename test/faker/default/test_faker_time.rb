@@ -14,10 +14,9 @@ class TestFakerTime < Test::Unit::TestCase
     from = Time.at(0)
     to   = Time.at(2_145_945_600)
 
-    100.times do
-      random_time = @tester.between(from: from, to: to)
-      assert random_time >= from, "Expected >= \"#{from}\", but got #{random_time}"
-      assert random_time <= to, "Expected <= \"#{to}\", but got #{random_time}"
+    deterministically_verify -> { @tester.between(from: from, to: to) }, depth: 5 do |random_time|
+      assert_operator random_time, :>=, from, "Expected >= \"#{from}\", but got #{random_time}"
+      assert_operator random_time, :<=, to, "Expected <= \"#{to}\", but got #{random_time}"
     end
   end
 
@@ -25,28 +24,25 @@ class TestFakerTime < Test::Unit::TestCase
     from = Time.at(0).to_date
     to   = Time.at(2_145_945_600).to_date
 
-    100.times do
-      random_time = @tester.between(from: from, to: to)
-      assert random_time.to_date >= from, "Expected >= \"#{from}\", but got #{random_time}"
-      assert random_time.to_date <= to, "Expected <= \"#{to}\", but got #{random_time}"
+    deterministically_verify -> { @tester.between(from: from, to: to) }, depth: 5 do |random_time|
+      assert_operator random_time.to_date, :>=, from, "Expected >= \"#{from}\", but got #{random_time}"
+      assert_operator random_time.to_date, :<=, to, "Expected <= \"#{to}\", but got #{random_time}"
     end
   end
 
   def test_forward
     today = Date.today
 
-    100.times do
-      random_time = @tester.forward(days: 10)
-      assert random_time > today.to_time, "Expected > \"#{today}\", but got #{random_time}"
+    deterministically_verify -> { @tester.forward(days: 10) }, depth: 5 do |random_time|
+      assert_operator random_time, :>, today.to_time, "Expected > \"#{today}\", but got #{random_time}"
     end
   end
 
   def test_backward
     tomorrow = Date.today + 1
 
-    100.times do
-      random_time = @tester.backward(days: 10)
-      assert random_time < tomorrow.to_time, "Expected < \"#{tomorrow}\", but got #{random_time}"
+    deterministically_verify -> { @tester.backward(days: 10) }, depth: 5 do |random_time|
+      assert_operator random_time, :<, tomorrow.to_time, "Expected < \"#{tomorrow}\", but got #{random_time}"
     end
   end
 
@@ -73,7 +69,7 @@ class TestFakerTime < Test::Unit::TestCase
       random_between_with_time_args,
       random_forward
     ].each do |result|
-      assert result.is_a?(Time), "Expected a Time object, but got #{result.class}"
+      assert_kind_of Time, result, "Expected a Time object, but got #{result.class}"
     end
   end
 
@@ -90,7 +86,7 @@ class TestFakerTime < Test::Unit::TestCase
       random_forward  = @tester.forward(days: 30, period: period, format: format)
 
       [random_backward, random_between, random_between_dates, random_forward].each do |result|
-        assert result.is_a?(String), "Expected a String, but got #{result.class}"
+        assert_kind_of String, result, "Expected a String, but got #{result.class}"
         assert_nothing_raised 'Not a valid date string' do
           date_format = '%m/%d/%Y %I:%M %p'
           DateTime.strptime(result, date_format)
@@ -113,7 +109,7 @@ class TestFakerTime < Test::Unit::TestCase
       random_forward  = @tester.forward(days: 30, period: period)
 
       [random_backward, random_between, random_forward].each_with_index do |result, index|
-        assert period_range.include?(result.hour.to_i), "#{%i[random_backward random_between random_forward][index]}: \"#{result}\" expected to be included in Faker::Time::TIME_RANGES[:#{period}] range"
+        assert_includes period_range, result.hour.to_i, "#{%i[random_backward random_between random_forward][index]}: \"#{result}\" expected to be included in Faker::Time::TIME_RANGES[:#{period}] range"
       end
     end
   end
@@ -127,8 +123,9 @@ class TestFakerTime < Test::Unit::TestCase
 
     100.times do
       random_between = @tester.between(from: from, to: to)
-      assert random_between >= from, "Expected >= \"#{from}\", but got #{random_between}"
-      assert random_between <= to, "Expected <= \"#{to}\", but got #{random_between}"
+
+      assert_operator random_between, :>=, from, "Expected >= \"#{from}\", but got #{random_between}"
+      assert_operator random_between, :<=, to, "Expected <= \"#{to}\", but got #{random_between}"
     end
   end
 end

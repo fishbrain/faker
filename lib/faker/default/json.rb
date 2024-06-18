@@ -20,14 +20,9 @@ module Faker
       #     something to eat - it's all been wrong."}
       #
       # @faker.version 1.9.2
-      def shallow_json(legacy_width = NOT_GIVEN, legacy_options = NOT_GIVEN, width: 3, options: { key: 'Name.first_name', value: 'Name.first_name' })
-        warn_for_deprecated_arguments do |keywords|
-          keywords << :width if legacy_width != NOT_GIVEN
-          keywords << :options if legacy_options != NOT_GIVEN
-        end
-
-        options[:key] = 'Faker::' + options[:key]
-        options[:value] = 'Faker::' + options[:value]
+      def shallow_json(width: 3, options: { key: 'Name.first_name', value: 'Name.first_name' })
+        options[:key] = "Faker::#{options[:key]}"
+        options[:value] = "Faker::#{options[:value]}"
 
         hash = build_shallow_hash(width, options)
         JSON.generate(hash)
@@ -71,24 +66,12 @@ module Faker
       #             {"Rick":"Wiza","Bonita":"Bayer","Gardner":"Auer","Felicity":"Abbott"}}}
       #
       # @faker.version 1.9.2
-      # rubocop:disable Metrics/ParameterLists
-      def add_depth_to_json(legacy_json = NOT_GIVEN, legacy_width = NOT_GIVEN, legacy_options = NOT_GIVEN, json: shallow_json, width: 3, options: { key: 'Name.first_name', value: 'Name.first_name' })
-        # rubocop:enable Metrics/ParameterLists
-        warn_for_deprecated_arguments do |keywords|
-          keywords << :json if legacy_json != NOT_GIVEN
-        end
-        warn_for_deprecated_arguments do |keywords|
-          keywords << :width if legacy_width != NOT_GIVEN
-        end
-        warn_for_deprecated_arguments do |keywords|
-          keywords << :options if legacy_options != NOT_GIVEN
-        end
-
-        options[:key] = 'Faker::' + options[:key]
-        options[:value] = 'Faker::' + options[:value]
+      def add_depth_to_json(json: shallow_json, width: 3, options: { key: 'Name.first_name', value: 'Name.first_name' })
+        options[:key] = "Faker::#{options[:key]}"
+        options[:value] = "Faker::#{options[:value]}"
 
         hash = JSON.parse(json)
-        hash.each do |key, _|
+        hash.each_key do |key|
           add_hash_to_bottom(hash, [key], width, options)
         end
         JSON.generate(hash)
@@ -110,7 +93,7 @@ module Faker
       def add_hash_to_bottom(hash, key_array, width, options)
         key_string = build_keys_from_array(key_array)
         if eval("hash#{key_string}").is_a?(::Hash)
-          eval("hash#{key_string}").each do |key, _|
+          eval("hash#{key_string}").each_key do |key|
             key_array << key
             add_hash_to_bottom(hash, key_array, width, options)
           end

@@ -18,11 +18,7 @@ module Faker
       #     #=> "Northfort, California"
       #
       # @faker.version 0.3.0
-      def city(legacy_options = NOT_GIVEN, options: {})
-        warn_for_deprecated_arguments do |keywords|
-          keywords << :options if legacy_options != NOT_GIVEN
-        end
-
+      def city(options: {})
         parse(options[:with_state] ? 'address.city_with_state' : 'address.city')
       end
 
@@ -49,12 +45,8 @@ module Faker
       #   Faker::Address.street_address #=> "282 Kevin Brook"
       #
       # @faker.version 0.3.0
-      def street_address(legacy_include_secondary = NOT_GIVEN, include_secondary: false)
-        warn_for_deprecated_arguments do |keywords|
-          keywords << :include_secondary if legacy_include_secondary != NOT_GIVEN
-        end
-
-        numerify(parse('address.street_address') + (include_secondary ? ' ' + secondary_address : ''))
+      def street_address(include_secondary: false)
+        numerify(parse('address.street_address') + (include_secondary ? " #{secondary_address}" : ''))
       end
 
       ##
@@ -121,19 +113,15 @@ module Faker
       #   Faker::Address.zip_code(state_abbreviation: 'CO') #=> "80011"
       #
       # @faker.version 0.3.0
-      def zip_code(legacy_state_abbreviation = NOT_GIVEN, state_abbreviation: '')
-        warn_for_deprecated_arguments do |keywords|
-          keywords << :state_abbreviation if legacy_state_abbreviation != NOT_GIVEN
-        end
-
+      def zip_code(state_abbreviation: '')
         if state_abbreviation.empty?
           letterified_string = letterify(fetch('address.postcode'))
           return numerify(letterified_string, leading_zero: true)
         end
 
-        # provide a zip code that is valid for the state provided
-        # see http://www.fincen.gov/forms/files/us_state_territory_zip_codes.pdf
-        bothify(fetch('address.postcode_by_state.' + state_abbreviation))
+        # provide a zip code that may be valid for the state provided
+        # note: zip code may appear in the correct format for the state provided but may not be an actual state zip.
+        bothify(fetch("address.postcode_by_state.#{state_abbreviation}"))
       end
 
       ##
@@ -242,12 +230,8 @@ module Faker
       #   Faker::Address.country_by_code(code: 'NL') #=> "Netherlands"
       #
       # @faker.version 1.9.2
-      def country_by_code(legacy_code = NOT_GIVEN, code: 'US')
-        warn_for_deprecated_arguments do |keywords|
-          keywords << :code if legacy_code != NOT_GIVEN
-        end
-
-        fetch('address.country_by_code.' + code)
+      def country_by_code(code: 'US')
+        fetch("address.country_by_code.#{code}")
       end
 
       ##
@@ -260,12 +244,8 @@ module Faker
       #   Faker::Address.country_name_to_code(name: 'united_states') #=> "US"
       #
       # @faker.version 1.9.2
-      def country_name_to_code(legacy_name = NOT_GIVEN, name: 'united_states')
-        warn_for_deprecated_arguments do |keywords|
-          keywords << :name if legacy_name != NOT_GIVEN
-        end
-
-        fetch('address.country_by_name.' + name)
+      def country_name_to_code(name: 'united_states')
+        fetch("address.country_by_name.#{name}")
       end
 
       ##

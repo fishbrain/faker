@@ -1,10 +1,19 @@
 # frozen_string_literal: true
 
-require 'digest'
+require 'openssl'
 
 module Faker
   class Crypto < Base
     class << self
+      # Setting the lorem character number lower than the default of
+      # 255 reduces the time complexity of each hash algorithm while
+      # still returning deterministically unique values. See
+      # https://github.com/faker-ruby/faker/pull/2938 for more info.
+      MD5_MIN_NUMBER_OF_CHARACTERS = 25
+      SHA1_MIN_NUMBER_OF_CHARACTERS = 31
+      SHA256_MIN_NUMBER_OF_CHARACTERS = 50
+      SHA512_MIN_NUMBER_OF_CHARACTERS = 100
+
       ##
       # Produces an MD5 hash.
       #
@@ -15,7 +24,7 @@ module Faker
       #
       # @faker.version 1.6.4
       def md5
-        Digest::MD5.hexdigest(Lorem.characters)
+        OpenSSL::Digest::MD5.hexdigest(Lorem.characters(number: MD5_MIN_NUMBER_OF_CHARACTERS))
       end
 
       ##
@@ -28,7 +37,7 @@ module Faker
       #
       # @faker.version 1.6.4
       def sha1
-        Digest::SHA1.hexdigest(Lorem.characters)
+        OpenSSL::Digest::SHA1.hexdigest(Lorem.characters(number: SHA1_MIN_NUMBER_OF_CHARACTERS))
       end
 
       ##
@@ -41,7 +50,20 @@ module Faker
       #
       # @faker.version 1.6.4
       def sha256
-        Digest::SHA256.hexdigest(Lorem.characters)
+        OpenSSL::Digest::SHA256.hexdigest(Lorem.characters(number: SHA256_MIN_NUMBER_OF_CHARACTERS))
+      end
+
+      ##
+      # Produces a SHA512 hash.
+      #
+      # @return [String]
+      #
+      # @example
+      #   Faker::Crypto.sha512 #=> "7b9fc82a6642874833d01b74a7b4fae3d15373193b55cfba47327f8f0afdc8d0ea155b58639a03a887009ef997dab8dd8d36767620d430f6e787e5996e26da80"
+      #
+      # @faker.version next
+      def sha512
+        OpenSSL::Digest::SHA512.hexdigest(Lorem.characters(number: SHA512_MIN_NUMBER_OF_CHARACTERS))
       end
     end
   end

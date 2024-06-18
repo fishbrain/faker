@@ -27,7 +27,7 @@ module Faker
       # @faker.version 1.8.0
       def emphasis
         paragraph = Faker::Lorem.paragraph(sentence_count: 3)
-        words = paragraph.split(' ')
+        words = paragraph.split
         position = rand(0..words.length - 1)
         formatting = fetch('markdown.emphasis')
         words[position] = "#{formatting}#{words[position]}#{formatting}"
@@ -50,7 +50,7 @@ module Faker
         number.times do |i|
           result << "#{i}. #{Faker::Lorem.sentence(word_count: 1)} \n"
         end
-        result.join('')
+        result.join
       end
 
       ##
@@ -69,7 +69,7 @@ module Faker
         number.times do |_i|
           result << "* #{Faker::Lorem.sentence(word_count: 1)} \n"
         end
-        result.join('')
+        result.join
       end
 
       ##
@@ -117,9 +117,11 @@ module Faker
       end
 
       ##
-      # Produces a random method from the methods above or the methods listed in the arguments.
+      # Produces a random method from the methods above, excluding the methods listed in the arguments.
       #
-      # @param methods [Symbol] Specify which methods to use.
+      # @overload random(methods)
+      #   @param methods [Symbol] Specify which methods to exclude.
+      #
       # @return [String, Array<String>]
       #
       # @example
@@ -131,7 +133,7 @@ module Faker
       def random(*args)
         method_list = available_methods
         args&.each { |ex| method_list.delete_if { |meth| meth == ex.to_sym } }
-        send(method_list[rand(0..method_list.length - 1)])
+        send(method_list[Faker::Config.random.rand(0..method_list.length - 1)])
       end
 
       ##
@@ -148,12 +150,7 @@ module Faker
       #   Faker::Markdown.sandwich(sentences: 6, repeat: 3) #=> returns newline separated content of 1 header, and then 3 sections consisting of, here, 1 6-sentence lorem paragraph and 1 random markdown element. The random markdown element is chosen at random in each iteration of the paragraph-markdown pairing.
       #
       # @faker.version 1.8.0
-      def sandwich(legacy_sentences = NOT_GIVEN, legacy_repeat = NOT_GIVEN, sentences: 3, repeat: 1)
-        warn_for_deprecated_arguments do |keywords|
-          keywords << :sentences if legacy_sentences != NOT_GIVEN
-          keywords << :repeat if legacy_repeat != NOT_GIVEN
-        end
-
+      def sandwich(sentences: 3, repeat: 1)
         text_block = []
         text_block << headers
         repeat.times do
@@ -166,7 +163,7 @@ module Faker
       private
 
       def available_methods
-        Markdown.public_methods(false) - Base.methods
+        (Markdown.public_methods(false) - Base.methods).sort
       end
     end
   end

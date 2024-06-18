@@ -16,14 +16,10 @@ module Faker
       #   Faker::Bank.account_number(digits: 13) #=> 673858237902
       #
       # @faker.version 1.9.1
-      def account_number(legacy_digits = NOT_GIVEN, digits: 10)
-        warn_for_deprecated_arguments do |keywords|
-          keywords << :digits if legacy_digits != NOT_GIVEN
-        end
-
+      def account_number(digits: 10)
         output = ''
 
-        output += rand.to_s[2..-1] while output.length < digits
+        output += rand.to_s[2..] while output.length < digits
 
         output[0...digits]
       end
@@ -31,21 +27,20 @@ module Faker
       ##
       # Produces a bank iban number.
       #
-      # @param country_code [String] Specifies what country prefix is used to generate the iban code.
+      # @param country_code [String, nil] Specifies what country prefix is used to generate the iban code. Providing `nil` will use a random country.
       # @return [String]
       #
       # @example
       #   Faker::Bank.iban #=> "GB76DZJM33188515981979"
       #   Faker::Bank.iban(country_code: "be") #=> "BE6375388567752043"
+      #   Faker::Bank.iban(country_code: nil) #=> "DE45186738071857270067"
       #
       # @faker.version 1.7.0
-      def iban(legacy_country_code = NOT_GIVEN, country_code: 'GB')
+      def iban(country_code: 'GB')
         # Each country has its own format for bank accounts
         # Many of them use letters in certain parts of the account
         # Using regex patterns we can create virtually any type of bank account
-        warn_for_deprecated_arguments do |keywords|
-          keywords << :country_code if legacy_country_code != NOT_GIVEN
-        end
+        country_code ||= iban_country_code
 
         begin
           pattern = fetch("bank.iban_details.#{country_code.downcase}.bban_pattern")
@@ -58,6 +53,19 @@ module Faker
 
         # Add country code and checksum to the generated account to form valid IBAN
         country_code.upcase + iban_checksum(country_code, account) + account
+      end
+
+      ##
+      # Produces the ISO 3166 code of a country that uses the IBAN system.
+      #
+      # @return [String]
+      #
+      # @example
+      #   Faker::Bank.iban_country_code #=> "CH"
+      #
+      # @faker.version next
+      def iban_country_code
+        sample(translate('faker.bank.iban_details').keys).to_s.upcase
       end
 
       ##
@@ -129,7 +137,7 @@ module Faker
       private
 
       def checksum(num_string)
-        num_array = num_string.split('').map(&:to_i)
+        num_array = num_string.chars.map(&:to_i)
         (
           7 * (num_array[0] + num_array[3] + num_array[6]) +
             3 * (num_array[1] + num_array[4] + num_array[7]) +
@@ -140,27 +148,25 @@ module Faker
       def compile_routing_number
         digit_one_two = %w[00 01 02 03 04 05 06 07 08 09 10 11 12]
         ((21..32).to_a + (61..72).to_a + [80]).each { |x| digit_one_two << x.to_s }
-        routing_num = digit_one_two.sample + rand_numstring + rand_numstring + rand_numstring + rand_numstring + rand_numstring + rand_numstring + rand_numstring
-        routing_num
+        digit_one_two.sample + rand_numstring + rand_numstring + rand_numstring + rand_numstring + rand_numstring + rand_numstring + rand_numstring
       end
 
       def compile_bsb_number
         digit_one_two = %w[01 03 06 08 11 12 73 76 78 30]
         state = (2..7).to_a.map(&:to_s).sample
-        bsb_num = digit_one_two.sample + state + rand_numstring + rand_numstring + rand_numstring
-        bsb_num
+        digit_one_two.sample + state + rand_numstring + rand_numstring + rand_numstring
       end
 
       # Calculates the mandatory checksum in 3rd and 4th characters in IBAN format
-      # source: https://en.wikipedia.org/wiki/International_Bank_Account_Number#Validating_the_IBAN
+      # source: https://en.wikipedia.org/wiki/International_Bank_Account_Number#Generating_IBAN_check_digits
       def iban_checksum(country_code, account)
         # Converts letters to numbers according the iban rules, A=10..Z=35
         account_to_number = "#{account}#{country_code}00".upcase.chars.map do |d|
           d =~ /[A-Z]/ ? (d.ord - 55).to_s : d
         end.join.to_i
 
-        # This is answer to (iban_to_num + checksum) % 97 == 1
-        checksum = (1 - account_to_number) % 97
+        # This is the correct answer to (iban_to_num + checksum) % 97 == 1
+        checksum = 98 - (account_to_number % 97)
 
         # Use leftpad to make the size always to 2
         checksum.to_s.rjust(2, '0')
@@ -180,9 +186,9 @@ module Faker
 
       def compile_fraction(routing_num)
         prefix = (1..50).to_a.map(&:to_s).sample
-        numerator = routing_num.split('')[5..8].join.to_i.to_s
-        denominator = routing_num.split('')[0..4].join.to_i.to_s
-        prefix + '-' + numerator + '/' + denominator
+        numerator = routing_num.chars[5..8].join.to_i.to_s
+        denominator = routing_num.chars[0..4].join.to_i.to_s
+        "#{prefix}-#{numerator}/#{denominator}"
       end
 
       def rand_numstring

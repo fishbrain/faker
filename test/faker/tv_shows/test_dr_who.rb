@@ -9,48 +9,49 @@ class TestFakerTvShowsDrWho < Test::Unit::TestCase
   end
 
   def test_character
-    10.times { assert @tester.character.match(/[\w]+/) }
+    deterministically_verify(-> { @tester.character }) { |result| assert_match(/\w+/, result) }
   end
 
   def test_the_doctor
-    10.times { assert @tester.the_doctor.match(/[\w]+/) }
+    deterministically_verify(-> { @tester.the_doctor }) { |result| assert_match(/\w+/, result) }
   end
 
   def test_actor
-    10.times { assert @tester.actor.match(/[\w]+/) }
+    deterministically_verify(-> { @tester.actor }) { |result| assert_match(/\w+/, result) }
   end
 
   def test_catch_phrase
-    10.times { assert @tester.catch_phrase.match(/[\w]+/) }
+    deterministically_verify(-> { @tester.catch_phrase }) { |result| assert_match(/\w+/, result) }
   end
 
   def test_quote
-    10.times { assert @tester.quote.match(/[\w]+/) }
+    deterministically_verify(-> { @tester.quote }) { |result| assert_match(/\w+/, result) }
   end
 
   # deprecated
   def test_villian
-    10.times { assert @tester.villian.match(/[\w]+/) }
+    deterministically_verify(-> { @tester.villian }) { |result| assert_match(/\w+/, result) }
   end
 
   def test_villain
-    10.times { assert @tester.villain.match(/[\w]+/) }
+    deterministically_verify(-> { @tester.villain }) { |result| assert_match(/\w+/, result) }
   end
 
   def test_specie
-    10.times { assert @tester.specie.match(/[\w]+/) }
+    deterministically_verify(-> { @tester.specie }) { |result| assert_match(/\w+/, result) }
   end
 
   def test_locales
     [nil, 'en', 'de'].each do |_locale_name|
       Faker::Config.locale = 'de'
-      assert @tester.character   .is_a? String
-      assert @tester.the_doctor  .is_a? String
-      assert @tester.catch_phrase.is_a? String
-      assert @tester.quote       .is_a? String
-      assert @tester.villian     .is_a? String # deprecated
-      assert @tester.villain     .is_a? String
-      assert @tester.specie      .is_a? String
+
+      assert_kind_of String, @tester.character
+      assert_kind_of String, @tester.the_doctor
+      assert_kind_of String, @tester.catch_phrase
+      assert_kind_of String, @tester.quote
+      assert_kind_of String, @tester.villian # deprecated
+      assert_kind_of String, @tester.villain
+      assert_kind_of String, @tester.specie
     end
   end
 end

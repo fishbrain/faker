@@ -6,6 +6,7 @@ Faker::Bank.account_number #=> 6738582379
 # Keyword arguments: digits
 Faker::Bank.account_number(digits: 13) #=> 673858237902
 
+# Faker generates valid IBAN check digits, but national check digits (BBAN) are not supported
 Faker::Bank.iban #=> "GB76DZJM33188515981979"
 
 # Keyword arguments: country_code
@@ -16,5 +17,5 @@ Faker::Bank.name #=> "ABN AMRO CORPORATE FINANCE LIMITED"
 
 Faker::Bank.routing_number #=> "729343831"
 
-Faker::Bank.swift_bic #=> "AAFMGB21"    
+Faker::Bank.swift_bic #=> "AAFMGB21"
 ```

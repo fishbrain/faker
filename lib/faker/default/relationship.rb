@@ -14,11 +14,7 @@ module Faker
       #   Faker::Relationship.familial #=> "Grandfather"
       #
       # @faker.version 1.9.2
-      def familial(legacy_connection = NOT_GIVEN, connection: nil)
-        warn_for_deprecated_arguments do |keywords|
-          keywords << :connection if legacy_connection != NOT_GIVEN
-        end
-
+      def familial(connection: nil)
         familial_connections = translate('faker.relationship.familial').keys
 
         if connection.nil?
@@ -32,7 +28,7 @@ module Faker
           end
         end
 
-        fetch('relationship.familial.' + connection)
+        fetch("relationship.familial.#{connection}")
       end
 
       ##

@@ -6,6 +6,19 @@ module Faker
 
     class << self
       ##
+      # Retrieves an allergen.
+      #
+      # @return [String]
+      #
+      # @example
+      #   Faker::Food.allergen #=> "Peanuts"
+      #
+      # @faker.version next
+      def allergen
+        fetch('food.allergens')
+      end
+
+      ##
       # Retrieves a typical dish from each country.
       #
       # @return [String]
@@ -93,11 +106,11 @@ module Faker
       #
       # @faker.version 1.7.0
       def measurement
-        fetch('food.measurement_sizes') + ' ' + fetch('food.measurements')
+        "#{fetch('food.measurement_sizes')} #{fetch('food.measurements')}"
       end
 
       ##
-      # Retrieves metric mesurements
+      # Retrieves metric measurements
       #
       # @return [String]
       #
@@ -107,6 +120,19 @@ module Faker
       # @faker.version 1.8.3
       def metric_measurement
         fetch('food.metric_measurements')
+      end
+
+      ##
+      # Retrieves ethnic category
+      #
+      # @return [String]
+      #
+      # @example
+      #   Faker::Food.ethnic_category #=> "Indian cuisine"
+      #
+      # @faker.version next
+      def ethnic_category
+        fetch('food.ethnic_category')
       end
     end
   end
